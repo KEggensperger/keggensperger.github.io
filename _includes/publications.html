@@ -66,6 +66,15 @@
     {% if post.paperurl %}
       <a href=" {{ post.paperurl }} ">[URL]</a>
     {% endif %}
+    {% if post.pdf %}
+      <a href=" {{ post.pdf }} ">[PDF]</a>
+    {% endif %}
+    {% if post.supplementary %}
+      <a href=" {{ post.supplementary }} ">[Supp]</a>
+    {% endif %}
+    {% if post.video %}
+      <a href=" {{ post.video }} ">[Video]</a>
+    {% endif %}
     </p>
 
   </article>
