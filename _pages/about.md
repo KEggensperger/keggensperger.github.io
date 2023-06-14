@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Short Bio"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Katharina Eggensperger is an Early Career Research Group Leader [AutoML for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/research-groups/automl-for-science/) in the Cluster of 
+I am an Early Career Research Group Leader [AutoML for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/research-groups/automl-for-science/) in the Cluster of 
 Excellence [Machine Learning for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/) at 
 the University of Tübingen.
+
+**Short Bio** 
 
 Her research focuses on methods for *automated machine learning (AutoML)*, *hyperparameter optimization (HPO)*, and *efficient 
 benchmarking*. Motivated by the goal of further democratizing the application of machine learning for scientific researchers 
@@ -27,3 +29,13 @@ chair for the [AutoML Conference](www.automl.cc) in 2022 and 2023.
 
 News
 ======
+
+  * Apr'23 · Together with [Marius Lindauer](https://www.ai.uni-hannover.de/de/institut/team/lindauer/) I will give a lecture on "AutoML: Accelerating Research on and Development of AI Applications" at the [ESSAI Summer School](https://essai.ijs.si/) in July!
+  * Jan'23 · Our paper [Mind the Gap: Measuring Generalization Performance Across Multiple Objectives](https://arxiv.org/abs/2212.04183) got accepted at IDA 2023 🥳
+  * Jan'23 · Our paper [TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second](https://openreview.net/forum?id=cp5PvcI6w8_&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions)) got accepted to ICLR 2023 🥳 
+  * Jan'23 · I am very excited to start a new position as an early career group leader for [AutoML for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/research-groups/automl-for-science/) in the Cluster of Excellence "ML in Science" at the University of Tübingen!  
+
+Open Positions
+==============
+
+If you're interested in working with me, please see this [example call]() and reach out to me 
