@@ -25,7 +25,7 @@ open-source tools for HPO methods and AutoML systems and has been a member of th
 competitions (2016, 2018, 2020). She is part of the [Automl.org](automl.org) group, co-organized the AutoML workshop 
 series at ICML in [2019](https://sites.google.com/view/automl2019icml/), [2020](https://sites.google.com/view/automl2020/home) 
 and [2021](https://sites.google.com/view/automl2021) and serves as a social 
-chair for the [AutoML Conference](www.automl.cc) in 2022 and 2023. 
+chair for the [AutoML Conference](www.automl.cc) in 2022 and 2023.  
 
 News
 ====
