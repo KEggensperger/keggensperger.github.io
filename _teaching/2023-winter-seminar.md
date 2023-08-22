@@ -9,7 +9,7 @@ location: "Tübingen"
 ---
 
 Have you ever trained an ML model and wondered how to efficiently optimize its hyperparameters? Have you heard of 
-AutoML and want to learn more?
+AutoML and want to learn more? Then this seminar is for you!
 
 TL;DR
 ======
