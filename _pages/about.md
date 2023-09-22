@@ -35,3 +35,5 @@ News
   * Jan'23 · Our paper [Mind the Gap: Measuring Generalization Performance Across Multiple Objectives](https://arxiv.org/abs/2212.04183) got accepted at IDA 2023 🥳
   * Jan'23 · Our paper [TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second](https://openreview.net/forum?id=cp5PvcI6w8_&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions)) got accepted to ICLR 2023 🥳 
   * Jan'23 · I am very excited to start a new position as an early career group leader for [AutoML for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/research-groups/automl-for-science/) in the Cluster of Excellence "ML in Science" at the University of Tübingen!
+
+**Want to work with me?** We typically recruit PhD students via the [IMPRS-IS](https://imprs.is.mpg.de/) (Deadline 15th November). Please see this [example call for a PhD position](https://keggensperger.github.io/files/2023_JobPosting.pdf) or reach out to me for further details. 
