@@ -30,6 +30,7 @@ chair for the [AutoML Conference](www.automl.cc) in 2022 and 2023.
 News
 ====
 
+  * Sept'23 · I am thrilled to serve as a program chair at next year's AutoML Conf in Paris 🥳 
   * Sept'23 · Together with [Matthias Feurer](https://www.slds.stat.uni-muenchen.de/people/feurer/) I am organizing the social program for the AutoML Conference, Sep 12th-15th! All important details can be found on [automl.cc](automl.cc) 
   * July'23 · Together with [Marius Lindauer](https://www.ai.uni-hannover.de/de/institut/team/lindauer/) I will give a lecture on "AutoML: Accelerating Research on and Development of AI Applications" at the [ESSAI Summer School](https://essai.ijs.si/)!
   * Jan'23 · Our paper [Mind the Gap: Measuring Generalization Performance Across Multiple Objectives](https://arxiv.org/abs/2212.04183) got accepted at IDA 2023 🥳
