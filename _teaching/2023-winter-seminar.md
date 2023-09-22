@@ -18,7 +18,7 @@ read some classic and also recent research papers in the field of AutoML with a 
 Why should you attend this seminar?
 ======
 Besides practicing your scientific communication skills, you will also 
-  * learn about the key contributions in the field of AutoML
+  * learn about key contributions in the field of AutoML
   * be able to discuss recent research in the field of hyperparameter optimization and AutoML systems
   * gain experience in reading, understanding and presenting research papers 
 
