@@ -10,8 +10,7 @@ location: "Tübingen"
 
 Have you ever trained an ML model and wondered how to efficiently optimize its hyperparameters? Then this seminar is for you!
 
-**TL;DR** AutoML aims to support ML users (and ML researchers) by automating parts of the ML workflow. In this seminar we will
-read some classic and also recent research papers in the field of AutoML with a focus on Bayesian optimization and AutoML systems for tabular data. 
+**TL;DR** AutoML aims to support ML users (and ML researchers) by automating parts of the ML workflow. In this seminar we will read some classic and also recent research papers in the field of AutoML with a focus on Bayesian optimization and AutoML systems for tabular data. 
 
 | Course Title | Automated Machine Learning and Hyperparameter Optimization                                                                                                                                               |
 |--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -32,21 +31,18 @@ Besides practicing your scientific communication skills, you will also
 
 Requirements
 ---
-We strongly recommend that you know the foundations of machine learning and deep learning. Ideally, you also have some 
-experience in applying ML to get the most out of this seminar.
+We strongly recommend that you know the foundations of machine learning and deep learning. Ideally, you also have some experience in applying ML to get the most out of this seminar.
 
 Topics
 ---
-The seminar focuses on understanding the underlying concepts of modern AutoML methods. Since this field is ever-growing,
-in this semester, we will focus on only a few topics.
+The seminar focuses on understanding the underlying concepts of modern AutoML methods. Since this field is ever-growing, in this semester, we will focus on only a few topics.
 
 The papers will be announced shortly.
 
 How the seminar will look like?
 ---
 
-We will meet each week (with a few exceptions). In the first two weeks, we will start with introductory lectures on automated machine learning, 
-empirical experimentation and how to critically review and present research papers. After that, each week, we will have presentations, followed by discussions.
+We will meet each week (with a few exceptions). In the first two weeks, we will start with introductory lectures on automated machine learning, empirical experimentation and how to critically review and present research papers. After that, each week, we will have presentations, followed by discussions.
 
 Important information
 ---
@@ -55,8 +51,7 @@ Please register on ILIAS. The number of participants is limited and the registra
 
 There will be a waiting list (please unregister to let other people take your place). 
 
-Please come to the first lecture even if you are still on the waiting list. If you're enrolled and don't show up,  
-your spot will be freed for someone on the waiting list.
+Please come to the first lecture even if you are still on the waiting list. If you're enrolled and don't show up, your spot will be freed for someone on the waiting list.
 
 
 
