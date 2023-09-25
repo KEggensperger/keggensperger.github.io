@@ -8,6 +8,11 @@ date: 2023-08-22
 location: "Tübingen"
 ---
 
+Have you ever trained an ML model and wondered how to efficiently optimize its hyperparameters? Then this seminar is for you!
+
+**TL;DR** AutoML aims to support ML users (and ML researchers) by automating parts of the ML workflow. In this seminar we will
+read some classic and also recent research papers in the field of AutoML with a focus on Bayesian optimization and AutoML systems for tabular data. 
+
 | Course Title | Automated Machine Learning and Hyperparameter Optimization                                                                                                                                               |
 |--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Course ID    | ML4501f                                                                                                                                                                                                  |
@@ -17,11 +22,6 @@ location: "Tübingen"
 | Language     | english                                                                                                                                                                                                  |
 | #participants | up to 18                                                                                                                                                                                                 |
 | Location     | in-person at [Maria-von-Linden-Straße 6](https://uni-tuebingen.de/einrichtungen/personalvertretungen-beratung-beauftragte/lageplaene/karte-c-sand-aussenbereiche-innenstadt/maria-von-linden-strasse-6/) |
-
-Have you ever trained an ML model and wondered how to efficiently optimize its hyperparameters? Then this seminar is for you!
-
-**TL;DR** AutoML aims to support ML users (and ML researchers) by automating parts of the ML workflow. In this seminar we will
-read some classic and also recent research papers in the field of AutoML with a focus on Bayesian optimization and AutoML systems for tabular data. 
 
 Why should you attend this seminar?
 ---
