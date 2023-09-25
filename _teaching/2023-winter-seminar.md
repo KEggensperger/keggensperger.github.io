@@ -10,6 +10,14 @@ location: "Tübingen"
 
 Have you ever trained an ML model and wondered how to efficiently optimize its hyperparameters? Then this seminar is for you!
 
+| Course Title | Automated Machine Learning and Hyperparameter Optimization                                                                                                                              |
+|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Course ID    | ML4501f                                                                                                                                                                                 |
+| Registration | [ILIAS](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_4330955&client_id=pr02)                                                                                             |
+| ECTS | 3 |
+| Time | TBA                                                                                                                                                                                     |
+| Location | [Maria-von-Linden-Straße 6](https://uni-tuebingen.de/einrichtungen/personalvertretungen-beratung-beauftragte/lageplaene/karte-c-sand-aussenbereiche-innenstadt/maria-von-linden-strasse-6/) |
+
 TL;DR
 ======
 AutoML aims to support ML users (and ML researchers) by automating parts of the ML workflow. In this seminar we will
@@ -36,5 +44,13 @@ The papers will be announced shortly.
 
 How the seminar will look like?
 ======
-We will meet each week (with a few exceptions). In each meeting, we will have presentations and discussions. 
-The specifics will be provided here shortly.
+
+We will meet each week (with a few exceptions). In the first two weeks, we will start with introductory lectures on automated machine learning, 
+empirical experimentation and how to critically review and present research papers. After that, each week, we will have presentations, followed by discussions.
+
+
+
+
+
+ 
+
