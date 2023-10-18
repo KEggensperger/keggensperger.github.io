@@ -39,24 +39,24 @@ The seminar focuses on understanding the underlying concepts of modern AutoML me
 
 Here is a *tentative* meeting schedule: 
 
-| Date                             | Content                       |
-|----------------------------------|-------------------------------|
-| 18.10                            | Initial Meeting [[slides](https://keggensperger.github.io/files/2023_AutoMLSeminar_Intro.pdf)]  |
-| 25.10; seminar room 3.OG         | Intro Session I               |
-| 01.11                            | No meeting; holiday           |
-| 08.11                            | HPO I (#1, #2)                |
-| 15.11; 16-18; seminar room 4. OG | HPO I (#3, #4)                |
-| 22.11                            | HPO I (#5, #6)                |
-| 29.11                            | AutoML for Tabular (#7, #8)   |
-| 06.12                            | AutoML for Tabular (#9, #10)  |
-| 13.12                            | AutoML for Tabular (#11, #12) |
-| 20.12                            | HPO II (#13, #14)             |
-| 27.12-03.01                      | No meeting; holiday           |
-| 10.01                            | Intro Session II              |
-| 17.01                            | NAS (#15, #16)                |
-| 24.01                            | NAS (#17, #18)                |
-| 31.01                            | No Meeting                    |
-| 07.02                            | NAS (#19, #20)                |
+| Date                             | Content                                                                                                                                                     |
+|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 18.10                            | Initial Meeting [[slides](https://keggensperger.github.io/files/2023_AutoMLSeminar_Intro.pdf);[topic assignment form](https://forms.gle/vMQC9nE13EoZq9T38)] |
+| 25.10; seminar room 3.OG         | Intro: Bayesian Optimization for HPO                                                                                                                        |
+| 01.11                            | No meeting; holiday                                                                                                                                         |
+| 08.11                            | HPO I (#1, #2)                                                                                                                                              |
+| 15.11; 16-18; seminar room 4. OG | HPO I (#3, #4)                                                                                                                                              |
+| 22.11                            | HPO I (#5, #6)                                                                                                                                              |
+| 29.11                            | AutoML for Tabular (#7, #8)                                                                                                                                 |
+| 06.12                            | AutoML for Tabular (#9, #10)                                                                                                                                |
+| 13.12                            | AutoML for Tabular (#11, #12)                                                                                                                               |
+| 20.12                            | HPO II (#13, #14)                                                                                                                                           |
+| 27.12-03.01                      | No meeting; holiday                                                                                                                                         |
+| 10.01                            | Intro: NAS                                                                                                                                                  |
+| 17.01                            | NAS (#15, #16)                                                                                                                                              |
+| 24.01                            | NAS (#17, #18)                                                                                                                                              |
+| 31.01                            | No Meeting                                                                                                                                                  |
+| 07.02                            | NAS (#19, #20)                                                                                                                                              |
 
 
 Paper List:
