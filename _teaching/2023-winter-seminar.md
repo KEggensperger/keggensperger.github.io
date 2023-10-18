@@ -41,7 +41,7 @@ Here is a *tentative* meeting schedule:
 
 | Date                             | Content                       |
 |----------------------------------|-------------------------------|
-| 18.10                            | Initial Meeting               |
+| 18.10                            | Initial Meeting [[slides](https://keggensperger.github.io/files/2023_AutoMLSeminar_Intro.pdf)]  |
 | 25.10; seminar room 3.OG         | Intro Session I               |
 | 01.11                            | No meeting; holiday           |
 | 08.11                            | HPO I (#1, #2)                |
@@ -56,10 +56,10 @@ Here is a *tentative* meeting schedule:
 | 17.01                            | NAS (#15, #16)                |
 | 24.01                            | NAS (#17, #18)                |
 | 31.01                            | No Meeting                    |
-| 05.02                            | NAS (#19, #20)                |
+| 07.02                            | NAS (#19, #20)                |
 
 
-Preliminary Paper List:
+Paper List:
 
 **HPO I**
 1. [Practical Bayesian Optimization of Machine Learning Algorithms](https://papers.nips.cc/paper_files/paper/2012/file/05311655a15b75fab86956663e1819cd-Paper.pdf)
