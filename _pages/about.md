@@ -30,12 +30,13 @@ chair for the [AutoML Conference](www.automl.cc) in 2022 and 2023.
 News
 ====
 
+  * 8th Nov'23 · 🗨️ Together with [Marius Lindauer](https://www.ai.uni-hannover.de/de/institut/team/lindauer/) I will give a talk on hyperparameter optimization at [MLOps'23](https://www.m3-konferenz.de/veranstaltung-21316-se-0-hyperparameter-optimieren-mit-automl.html)
   * Sept'23 · I will offer a seminar on "Automated Machine Learning and Hyperparameter Optimization". Find more details [here](https://keggensperger.github.io/teaching/2023-winter-seminar)
-  * Sept'23 · I am thrilled to serve as a program chair at next year's AutoML Conf in Paris 🥳 
-  * Sept'23 · Together with [Matthias Feurer](https://www.slds.stat.uni-muenchen.de/people/feurer/) I am organizing the social program for the AutoML Conference, Sep 12th-15th! All important details can be found on [automl.cc](automl.cc) 
-  * July'23 · Together with [Marius Lindauer](https://www.ai.uni-hannover.de/de/institut/team/lindauer/) I will give a lecture on "AutoML: Accelerating Research on and Development of AI Applications" at the [ESSAI Summer School](https://essai.ijs.si/)!
-  * Jan'23 · Our paper [Mind the Gap: Measuring Generalization Performance Across Multiple Objectives](https://arxiv.org/abs/2212.04183) got accepted at IDA 2023 🥳
-  * Jan'23 · Our paper [TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second](https://openreview.net/forum?id=cp5PvcI6w8_&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions)) got accepted to ICLR 2023 🥳 
-  * Jan'23 · I am very excited to start a new position as an early career group leader for [AutoML for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/research-groups/automl-for-science/) in the Cluster of Excellence "ML in Science" at the University of Tübingen!
+  * Sept'23 · 🥳 I am thrilled to be a program chair at next year's [AutoML Conf](https://2024.automl.cc/) in Paris 
+  * 12th-15th Sept'23 · 🥳 Together with [Matthias Feurer](https://www.slds.stat.uni-muenchen.de/people/feurer/) I am organizing the social program for the AutoML Conference! All important details can be found on [automl.cc](automl.cc) 
+  * July'23 · 🗨️ Together with [Marius Lindauer](https://www.ai.uni-hannover.de/de/institut/team/lindauer/) I will give a lecture on "AutoML: Accelerating Research on and Development of AI Applications" at the [ESSAI Summer School](https://essai.ijs.si/)! 
+  * Jan'23 · 📝 Our paper [Mind the Gap: Measuring Generalization Performance Across Multiple Objectives](https://arxiv.org/abs/2212.04183) got accepted at IDA 2023.
+  * Jan'23 · 📝 Our paper [TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second](https://openreview.net/forum?id=cp5PvcI6w8_&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions)) got accepted to ICLR 2023.
+  * Jan'23 · 🥳 I am very excited to start a new position as an early career group leader for [AutoML for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/research-groups/automl-for-science/) in the Cluster of Excellence "ML in Science" at the University of Tübingen!
 
 **Want to work with me?** I typically recruit PhD students via the [IMPRS-IS](https://imprs.is.mpg.de/) graduate school (Deadline 15th November). Here is an [example call for a PhD position](https://keggensperger.github.io/files/2023_JobPosting.pdf) or reach out to me for more details! 
