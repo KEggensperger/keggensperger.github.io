@@ -43,9 +43,9 @@ Here is a *tentative* meeting schedule:
 |-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 18.10                 | Initial Meeting [[slides](https://keggensperger.github.io/files/2023_AutoMLSeminar_Intro.pdf);[topic assignment form](https://forms.gle/vMQC9nE13EoZq9T38)] |
 | 25.10; seminar room 3.OG | Intro: Bayesian Optimization for HPO                                                                                                                        |
-| 01.11                 | No meeting;                                                                                                                                                 |
+| 01.11                 | No meeting                                                                                                                                                  |
 | 08.11                 | HPO I (#1, #2)                                                                                                                                              |
-| 15.11                 | No meeting;                                                                                                                                                 |
+| 15.11                 | No meeting                                                                                                                                                  |
 | 22.11                 | HPO I (#3, #4)                                                                                                                                              |
 | 29.11                 | AutoML for Tabular (#5, #6)                                                                                                                                 |
 | 06.12                 | AutoML for Tabular (#7, #8)                                                                                                                                 |
@@ -55,7 +55,7 @@ Here is a *tentative* meeting schedule:
 | 10.01                 | Intro: NAS                                                                                                                                                  |
 | 17.01                 | NAS (#13, #14)                                                                                                                                              |
 | 24.01                 | NAS (#15, #16)                                                                                                                                              |
-| 31.01                 | No Meeting                                                                                                                                                  |
+| 31.01                 | No meeting                                                                                                                                                  |
 | 07.02                 | NAS (#17, #18)                                                                                                                                              |
 
 
