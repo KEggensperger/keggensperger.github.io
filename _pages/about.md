@@ -31,8 +31,8 @@ News
 ====
 
   * 8th Nov'23 · 🗨️ Together with [Marius Lindauer](https://www.ai.uni-hannover.de/de/institut/team/lindauer/) I will give a talk on hyperparameter optimization at [MLOps'23](https://www.m3-konferenz.de/veranstaltung-21316-se-0-hyperparameter-optimieren-mit-automl.html)
-  * Sept'23 · I will offer a seminar on "Automated Machine Learning and Hyperparameter Optimization". Find more details [here](https://keggensperger.github.io/teaching/2023-winter-seminar)
-  * Sept'23 · 🥳 I am thrilled to be a program chair at next year's [AutoML Conf](https://2024.automl.cc/) in Paris 
+  * Sept'23 · 📓 I offer a seminar on "Automated Machine Learning and Hyperparameter Optimization" in the winter semester. Find more details [here](https://keggensperger.github.io/teaching/2023-winter-seminar)
+  * Sept'23 · 🥳 I am thrilled to be one of the program chairs at next year's [AutoML Conf](https://2024.automl.cc/) in Paris 
   * 12th-15th Sept'23 · 🥳 Together with [Matthias Feurer](https://www.slds.stat.uni-muenchen.de/people/feurer/) I am organizing the social program for the AutoML Conference! All important details can be found on [automl.cc](automl.cc) 
   * July'23 · 🗨️ Together with [Marius Lindauer](https://www.ai.uni-hannover.de/de/institut/team/lindauer/) I will give a lecture on "AutoML: Accelerating Research on and Development of AI Applications" at the [ESSAI Summer School](https://essai.ijs.si/)! 
   * Jan'23 · 📝 Our paper [Mind the Gap: Measuring Generalization Performance Across Multiple Objectives](https://arxiv.org/abs/2212.04183) got accepted at IDA 2023.
