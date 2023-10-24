@@ -110,15 +110,14 @@ How the seminar will look like?
 
 We will meet each week (with a few exceptions). In the first two weeks, we will start with introductory lectures on automated machine learning, empirical experimentation and how to critically review and present research papers. After that, each week, we will have presentations, followed by discussions.
 
-Important information
+Other Important information
 ---
 
-Please register on ILIAS. The number of participants is limited and the registration opens on September 29th, noon. 
-
+**Registration:** Please register on ILIAS. The number of participants is limited and the registration opens on September 29th, noon. 
 There will be a waiting list (please unregister to let other people take your place). 
-
 Please come to the first lecture even if you are still on the waiting list. If you're enrolled and don't show up, your spot will be freed for someone on the waiting list.
 
+**Grading/Presentations:** Grades will vbe based on your presentation, slides and active participation in the seminar. Further details will be discussed in the intro sessions.
 
 
  
