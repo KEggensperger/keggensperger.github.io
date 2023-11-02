@@ -6,7 +6,6 @@ permalink: /publication/2023-JAIR-fairness
 date: 2023-11-02
 venue: "(Accepted for publication) Journal of Artificial Intelligence (JAIR)"
 doi: 'tba'
-paperurl: 'tba'
 arxiv: 'https://arxiv.org/abs/2303.08485'
 blogpost: 'https://www.automl.org/can-fairness-be-automated/'
 ---
