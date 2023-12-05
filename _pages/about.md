@@ -22,10 +22,10 @@ Previously, she was part of the [ML Lab](https://ml.informatik.uni-freiburg.de/)
 she completed her Ph.D. under the supervision of [Frank Hutter](https://ml.informatik.uni-freiburg.de/profile/hutter/) 
 and [Marius Lindauer](https://www.ai.uni-hannover.de/de/institut/team/lindauer) (2022). Katharina also co-developed 
 open-source tools for HPO methods and AutoML systems and has been a member of the team winning three AutoML 
-competitions (2016, 2018, 2020). She is part of the [Automl.org](automl.org) group, co-organized the AutoML workshop 
+competitions (2016, 2018, 2020). She is a junior head of the [Automl.org](automl.org) group, co-organized the AutoML workshop 
 series at ICML in [2019](https://sites.google.com/view/automl2019icml/), [2020](https://sites.google.com/view/automl2020/home) 
 and [2021](https://sites.google.com/view/automl2021) and serves as a social 
-chair (2022,2023) and as a program chair (2024) for the [AutoML Conference](www.automl.cc).  
+chair (2022,2023) and as a program chair (2024) for the [AutoML Conference](www.automl.cc). 
 
 News
 ====
