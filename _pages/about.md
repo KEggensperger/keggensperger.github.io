@@ -41,4 +41,4 @@ News
 
 **Note:** For links to slides, tutorials and videos, please see [talks](https://keggensperger.github.io/talks/), [teaching](https://keggensperger.github.io/teaching/) and [Automl.org](Automl.org)
 
-**Want to work with me?** I typically recruit PhD students via the [IMPRS-IS](https://imprs.is.mpg.de/) graduate school (Deadline mid-November each year). Here is an [example call for a PhD position](https://keggensperger.github.io/files/2023_JobPosting.pdf) or reach out to me for more details! 
+**Want to work with me?** I typically recruit PhD students via [IMPRS-IS](https://imprs.is.mpg.de/) (Deadline mid-November each year). Here is an [example call for a PhD position](https://keggensperger.github.io/files/2023_JobPosting.pdf) or reach out to me for more details! 
