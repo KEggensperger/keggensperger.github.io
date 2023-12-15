@@ -14,18 +14,17 @@ the University of Tübingen.
 
 **Short Bio** 
 
-Her research focuses on methods for *automated machine learning (AutoML)*, *hyperparameter optimization (HPO)*, and *efficient 
+My research focuses on methods for *automated machine learning (AutoML)*, *hyperparameter optimization (HPO)*, and *efficient 
 benchmarking*. Motivated by the goal of further democratizing the application of machine learning for scientific researchers 
-and practitioners, she researches how to improve and extend AutoML systems to leverage the full potential of ML for new applications.
+and practitioners, I research how to improve and extend AutoML systems to leverage the full potential of ML for new applications.
 
-Previously, she was part of the [ML Lab](https://ml.informatik.uni-freiburg.de/) at the University of Freiburg, where 
-she completed her Ph.D. under the supervision of [Frank Hutter](https://ml.informatik.uni-freiburg.de/profile/hutter/) 
-and [Marius Lindauer](https://www.ai.uni-hannover.de/de/institut/team/lindauer) (2022). Katharina also co-developed 
-open-source tools for HPO methods and AutoML systems and has been a member of the team winning three AutoML 
-competitions (2016, 2018, 2020). She is a junior head of the [Automl.org](automl.org) group, co-organized the AutoML workshop 
-series at ICML in [2019](https://sites.google.com/view/automl2019icml/), [2020](https://sites.google.com/view/automl2020/home) 
-and [2021](https://sites.google.com/view/automl2021) and serves as a social 
-chair (2022,2023) and as a program chair (2024) for the [AutoML Conference](www.automl.cc). 
+Previously, I was part of the [ML Lab](https://ml.informatik.uni-freiburg.de/) at the University of Freiburg, where 
+I completed her Ph.D. under the supervision of [Frank Hutter](https://ml.informatik.uni-freiburg.de/profile/hutter/) 
+and [Marius Lindauer](https://www.ai.uni-hannover.de/de/institut/team/lindauer) (2022). I also co-developed several 
+open-source tools for HPO methods and AutoML systems and have been a member of the team winning three AutoML 
+competitions (2016, 2018, 2020). I am a junior head of the [Automl.org](automl.org) group, member of the [COSEAL](https://www.coseal.net/) group and a faculty member of [IMPRS-IS](https://imprs.is.mpg.de/). 
+Furthermore, I co-organized the AutoML workshop series at ICML in [2019](https://sites.google.com/view/automl2019icml/), [2020](https://sites.google.com/view/automl2020/home) 
+and [2021](https://sites.google.com/view/automl2021) and served as a social chair (2022,2023) and as a program chair (2024) for the [AutoML Conference](www.automl.cc). 
 
 News
 ====
@@ -42,4 +41,4 @@ News
 
 **Note:** For links to slides, tutorials and videos, please see [talks](https://keggensperger.github.io/talks/), [teaching](https://keggensperger.github.io/teaching/) and [Automl.org](Automl.org)
 
-**Want to work with me?** I typically recruit PhD students via the [IMPRS-IS](https://imprs.is.mpg.de/) graduate school (Deadline 15th November). Here is an [example call for a PhD position](https://keggensperger.github.io/files/2023_JobPosting.pdf) or reach out to me for more details! 
+**Want to work with me?** I typically recruit PhD students via the [IMPRS-IS](https://imprs.is.mpg.de/) graduate school (Deadline mid-November each year). Here is an [example call for a PhD position](https://keggensperger.github.io/files/2023_JobPosting.pdf) or reach out to me for more details! 
