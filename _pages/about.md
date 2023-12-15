@@ -19,7 +19,7 @@ benchmarking*. Motivated by the goal of further democratizing the application of
 and practitioners, I research how to improve and extend AutoML systems to leverage the full potential of ML for new applications.
 
 Previously, I was part of the [ML Lab](https://ml.informatik.uni-freiburg.de/) at the University of Freiburg, where 
-I completed her Ph.D. under the supervision of [Frank Hutter](https://ml.informatik.uni-freiburg.de/profile/hutter/) 
+I completed my Ph.D. under the supervision of [Frank Hutter](https://ml.informatik.uni-freiburg.de/profile/hutter/) 
 and [Marius Lindauer](https://www.ai.uni-hannover.de/de/institut/team/lindauer) (2022). I also co-developed several 
 open-source tools for HPO methods and AutoML systems and have been a member of the team winning three AutoML 
 competitions (2016, 2018, 2020). I am a junior head of the [Automl.org](automl.org) group, member of the [COSEAL](https://www.coseal.net/) group and a faculty member of [IMPRS-IS](https://imprs.is.mpg.de/). 
