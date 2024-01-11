@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Seminar: Automated Machine Learning and Hyperparameter Optimization"
 collection: teaching
 type: "Seminar"
