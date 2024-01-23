@@ -6,6 +6,7 @@ author_profile: true
 ---
 
   * 2024 · *Talk* at [WiDS Regensburg](https://www.wids-regensburg.de/) AutoML: "Streamlining Machine Learning"
+  * 2024 · *Talk*, Group Talk ["Kognitive Systeme"](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/) at Uni Tübingen: " AutoML: Accelerating Research on and Development of ML Systems"
 
 ---
 ### 2023
