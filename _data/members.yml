@@ -1,9 +1,10 @@
-# Authors
+# Members
+#  website: https://website.com
+#  linkedin: https://linkedin.com
+#   email: exampleemail@gmail.com
+
 
 - name: Amir Rezaei Balef
-  avatar: default.jpg
-  info: PhD, started Oct 2023
-  email: exampleemail@gmail.com
-  website: https://website.com
-  website: https://linkedin.com
-  scholar: https://scholar.com
+  avatar: amir_portrait.jpeg
+  info: PhD, started Sep 2023
+  scholar: https://scholar.google.com/citations?user=tmCEuMcAAAAJ&hl=en
