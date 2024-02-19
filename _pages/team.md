@@ -48,6 +48,10 @@ author_profile: true
 {% endif %}
 </div>
 
+## Currrent MSc and Bsc Students
+
+  * Samuel Wörz: "Probabilistic Wind Power Forecasting with Automated Machine Learning Frameworks" (co-supervised with [Dr. Nicole Ludwig](https://www.mlsustainableenergy.com/de/))
+
 --- 
 
 **Want to work with me?**
