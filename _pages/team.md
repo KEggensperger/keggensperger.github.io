@@ -19,7 +19,7 @@ author_profile: true
 
 <div class="col-sm-2">
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/profile_pictures/{{ member.avatar }}" width="50%" style="max-width:125px"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/profile_pictures/{{ member.avatar }}" width="50%" style="max-width:200px"/>
 </div>
 <div class="social-icons">
   <h3>{{ member.name }}</h3>
