@@ -5,7 +5,7 @@ permalink: /team/
 author_profile: true
 ---
 
-## Current PhD Students
+## Current Team Members
 
 <div>
 {% assign number_printed = 0 %}

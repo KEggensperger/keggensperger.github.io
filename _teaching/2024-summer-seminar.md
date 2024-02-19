@@ -9,29 +9,29 @@ date: 2024-04-22
 location: "Tübingen"
 ---
 
-Have you ever trained an ML model and wondered how to efficiently optimize its hyperparameters? Then this seminar is for you!
+Have you heard about AutoML? Do you wonder what LLMs can do for AutoML and vice versa? Then this seminar is for you!
 
 **TL;DR** AutoML aims to support ML users (and ML researchers) by 
 automating parts of the ML workflow. In this seminar we will read recent
 research papers in the field of AutoML with a focus on methods for and with LLMs 
-and pre-trained models in general. 
+and pre-trained models. 
 
 
-| Course Title | AutoML in the Age of LLMs and Pre-trained Models                                                                                                                                                                                 |
+| Course Title | AutoML in the Age of LLMs and Pre-trained Models                                                                                                                                                                                           |
 |--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Course ID    | ML4501f                                                                                                                                                                                                                                    |
 | Registration | [ILIAS](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_4330955&client_id=pr02)                                                                                                                                                |
 | ECTS         | 3                                                                                                                                                                                                                                          |
 | Time         | TBD                                                                                                                                                                                                                                        |
 | Language     | english                                                                                                                                                                                                                                    |
-| #participants | up to 20                                                                                                                                                                                                                                   |
+| #participants | up to 16                                                                                                                                                                                                                                   |
 | Location     | in-person at [Maria-von-Linden-Straße 6](https://uni-tuebingen.de/einrichtungen/personalvertretungen-beratung-beauftragte/lageplaene/karte-c-sand-aussenbereiche-innenstadt/maria-von-linden-strasse-6/); mostly lecture hall ground floor |
 
 Why should you attend this seminar?
 ---
 Besides practicing your scientific communication skills, you will also 
   * learn about key contributions in the field of AutoML
-  * be able to discuss recent research in the field of hyperparameter optimization and AutoML systems
+  * be able to discuss recent research on AutoML with and for LLMs
   * gain experience in reading, understanding and presenting research papers 
 
 Requirements
@@ -61,7 +61,7 @@ We will meet each week (with a few exceptions). In the first two weeks, we will 
 Other Important information
 ---
 
-**Registration:** Please register on ILIAS. The number of participants is limited and the registration opens on September 29th, noon. 
+**Registration:** Please register on ILIAS. The number of participants is limited and the registration opens on March 29th, noon. 
 There will be a waiting list (please unregister to let other people take your place). 
 Please come to the first lecture even if you are still on the waiting list. If you're enrolled and don't show up, your spot will be freed for someone on the waiting list.
 
