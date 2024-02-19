@@ -8,9 +8,9 @@
 
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}" width="50%" style="max-width:200px"/>
+    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}" width="50%" style="max-width:200px"/>
+    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
   </div>
 
@@ -121,7 +121,7 @@
     </ul>
   </div>
 
-  <div class="container">
+  <div class="author__avatar">
   <img src="{{"/images/ml4sciene_logo_small.png" | prepend: base_path }}" width="50%" style="max-width:200px"/>
   <img src="{{"/images/uni_logo_small.png" | prepend: base_path }}" width="50%" style="max-width:200px"/>
   <img src="{{"/images/automl.png" | prepend: base_path }}" width="50%" style="max-width:200px"/>
