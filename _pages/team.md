@@ -19,7 +19,7 @@ author_profile: true
 
 <div class="col-sm-2">
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/profile_pictures/{{ member.avatar }}" width="50%" style="max-width:250px"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/profile_pictures/{{ member.avatar }}" width="50%" style="max-width:125px"/>
 </div>
 <div class="social-icons">
   <h3>{{ member.name }}</h3>
@@ -50,7 +50,7 @@ author_profile: true
 
 ## Currrent MSc and Bsc Students
 
-  * Samuel Wörz: "Probabilistic Wind Power Forecasting with Automated Machine Learning Frameworks" (co-supervised with [Dr. Nicole Ludwig](https://www.mlsustainableenergy.com/de/))
+  * Samuel Wörz: *Probabilistic Wind Power Forecasting with Automated Machine Learning Frameworks* (co-supervised with [Dr. Nicole Ludwig](https://www.mlsustainableenergy.com/de/))
 
 --- 
 
