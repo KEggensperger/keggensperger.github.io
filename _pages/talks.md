@@ -5,15 +5,16 @@ permalink: /talks/
 author_profile: true
 ---
 
-  * 2024 · *Talk* at [WiDS Regensburg](https://www.wids-regensburg.de/) AutoML: "Streamlining Machine Learning"
+  * 2024 · [upcoming] *Invited Talk*, *Bosch IoC Lab & Un Tübingen - Invited Talk Series*: "AutoML to Streamline ML"
+  * 2024 · [upcoming] *Invited Talk*, [WiDS Regensburg](https://www.wids-regensburg.de/): "AutoML: Streamlining Machine Learning"
   * 2024 · *Talk*, Group Talk ["Kognitive Systeme"](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/) at Uni Tübingen: " AutoML: Accelerating Research on and Development of ML Systems"
 
 ---
 ### 2023
 
-  * 2023 · *Talk*, MLOPS'23 "Hyperparameter Optimieren mit AutoML" · [[slides]](https://www.automl.org/wp-content/uploads/2023/11/2023_MLOPs_HPOmitAutoML.pdf)
+  * 2023 · *Invited Talk*, MLOPS'23 "Hyperparameter Optimieren mit AutoML" · [[slides]](https://www.automl.org/wp-content/uploads/2023/11/2023_MLOPs_HPOmitAutoML.pdf)
   * 2023 · *Lecture*, Lecture Series at the [European Summer School on AI](https://essai.si/) (ESSAI): “AutoML: Accelerating Research on and Development of AI Applications“ · [[material]](https://www.automl.org/talks/)
-  * 2023 · *Talk*, ELLIS Workshop: "Exploring the Landscape: (Auto)ML for Tabular Data"
+  * 2023 · *Invited Talk*, ELLIS Workshop: "Exploring the Landscape: (Auto)ML for Tabular Data"
   * 2023 · *Hands-On Session*, [nextgen_AI Freiburg](https://freiburg-ai.github.io/): "Automated Machine Learning with Auto-sklearn" · [[material]](https://github.com/automl/auto-sklearn-talks/tree/main/2023_06_06_NextGenAI_Workshop) 
 
 ---

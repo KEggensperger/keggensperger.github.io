@@ -30,15 +30,18 @@ News
 ====
 
 <ul>
+  <li> Feb'24 · 📝 Our paper <a href="https://jair.org/index.php/jair/article/view/14747">Can Fairness be Automated? Guidelines and Opportunities for Fairness-aware AutoML </a> has finally been publlished at JAIR. </li>
+  <li> Feb'24 · 📓 I will offer a seminar on "AutoML in the Age of LLMs and Pre-trained Models" in the summer semester. Detail will be released <a href="https://keggensperger.github.io/teaching/2024-summer-seminar">here</a>.</li>
+  <li> Feb'24 · 🗨️ I am thrilled to be invited to give a talk at <a href="https://www.wids-regensburg.de/">Women in Data Science</a> in Regensburg on "AutoML: Streamlining Machine Learning"</li>  
   <li> 9th Nov'23 · 🗨️ Together with <a href="https://www.ai.uni-hannover.de/de/institut/team/lindauer/">Marius Lindauer</a> I gave a talk at <a href="https://www.m3-konferenz.de/veranstaltung-21316-se-0-hyperparameter-optimieren-mit-automl.html">MLOps'23</a>: "Hyperparameter Optimieren mit AutoML"</li> 
   <li> Sept'23 · 📓 I offer a seminar on "Automated Machine Learning and Hyperparameter Optimization" in the winter semester. Find all details <a href="https://keggensperger.github.io/teaching/2023-winter-seminar">here</a>.</li>
   <li> Sept'23 · 🥳 I am thrilled to be one of three program chairs for <a href="https://2024.automl.cc/">AutoML 2024</a> in Paris </li>
-  <li> 12th-15th Sept'23 · 🥳 Together with <a href="https://www.slds.stat.uni-muenchen.de/people/feurer/">Matthias Feurer</a> I am organizing the social program for AutoML 2023! Find all details <a href="automl.cc">here</a>.</li>
 </ul>
 
 <details>
 	<summary>more entries</summary>
 <ul>
+  <li> 12th-15th Sept'23 · 🥳 Together with <a href="https://www.slds.stat.uni-muenchen.de/people/feurer/">Matthias Feurer</a> I am organizing the social program for AutoML 2023! Find all details <a href="automl.cc">here</a>.</li>
   <li> July'23 · 🗨️ Together with <a href="https://www.ai.uni-hannover.de/de/institut/team/lindauer/">Marius Lindauer</a> I will give a lecture on "AutoML: Accelerating Research on and Development of AI Applications" at the <a href="https://essai.ijs.si/">ESSAI Summer School</a>! </li> 
   <li> June'23 · 🗨️ Together with <a href="https://ml.informatik.uni-freiburg.de/profile/bergman/">Eddie Bergman</a> I gave a *Hands-On Session* at the <a href="https://freiburg-ai.github.io/">nextgen_AI</a> Freiburg workshop: "Automated Machine Learning with Auto-sklearn" </li>
   <li> Jan'23 · 📝 Our paper <a href="https://arxiv.org/abs/2212.04183">Mind the Gap: Measuring Generalization Performance Across Multiple Objectives</a> got accepted at IDA 2023. </li>
