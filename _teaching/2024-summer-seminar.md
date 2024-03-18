@@ -14,13 +14,13 @@ Have you heard about AutoML? Do you wonder what LLMs can do for AutoML and vice 
 **TL;DR** AutoML aims to support ML users (and ML researchers) by 
 automating parts of the ML workflow. In this seminar we will read recent
 research papers in the field of AutoML with a focus on methods for and with LLMs 
-and pre-trained models. 
+and pre-trained models. For a detailed overview, see this [paper](https://arxiv.org/abs/2306.08107).
 
 
 | Course Title | AutoML in the Age of LLMs and Pre-trained Models                                                                                                                                                                                           |
 |--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Course ID    | ML4501f                                                                                                                                                                                                                                    |
-| Registration | [ILIAS](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_4330955&client_id=pr02)                                                                                                                                                |
+| Registration | [ILIAS](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_4566638&client_id=pr02)                                                                                                                                                |
 | ECTS         | 3                                                                                                                                                                                                                                          |
 | Time         | TBD                                                                                                                                                                                                                                        |
 | Language     | english                                                                                                                                                                                                                                    |
@@ -44,7 +44,7 @@ Topics
 ---
 The seminar focuses on understanding the underlying concepts of modern
 AutoML methods. Since this field is ever-growing, in this semester, 
-we will focus on only a few topics as stated above. 
+we will focus on only a few topics as stated above.
 
 Here is a *tentative* meeting schedule: 
 
