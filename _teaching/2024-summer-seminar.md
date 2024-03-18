@@ -3,7 +3,7 @@ layout: archive
 title: "Seminar: AutoML in the Age of LLMs and Pre-trained Models"
 collection: teaching
 type: "Seminar"
-permalink: /teaching/2024-winter-seminar
+permalink: /teaching/2024-summer-seminar
 venue: "University of Tübingen"
 date: 2024-04-22
 location: "Tübingen"
