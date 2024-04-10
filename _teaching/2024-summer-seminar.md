@@ -72,10 +72,10 @@ Here is a *tentative* meeting schedule and a *tentative* paper list:
 2. [LLM4BO] Liu et al. [Large language models to enhance Bayesian optimization](https://openreview.net/forum?id=OOxotBmGol) (ICLR’24)
 3. [TabPFN] Hollman et el. [TabPFN: A Transformer That Solves Small Tabular Classification Problems in a Second](https://openreview.net/forum?id=cp5PvcI6w8_) (ICLR’23)
 4. [XTab] Zhu et al. [XTab: Cross-table Pretraining for Tabular Transformers](https://proceedings.mlr.press/v202/zhu23k.html) (ICML’23)
-5. [GPT4NAS] Zheng et al. [Can GPT-4 Perform Neural Architecture Search?](https://arxiv.org/pdf/2304.10970.pdf) (arxiv’23)
-6. [GPT-NAS] Yu et al. [GPT-NAS: Evolutionary Neural Architecture Search with the Generative Pre-Trained](https://arxiv.org/pdf/2305.05351.pdf) (arxiv’22)
 7. [CAAFE] Hollman et al. [Large Language Models for Automated Data Science: Introducing CAAFE for Context-Aware Automated Feature Engineering](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8c2df4c35cdbee764ebb9e9d0acd5197-Abstract-Conference.html) (NeurIPS’24)
 8. [MLAgent] Huang et al. [Benchmarking Large Language Models as AI Research Agents](https://arxiv.org/abs/2310.03302) (arxiv’23)
+5. [GPT4NAS] Zheng et al. [Can GPT-4 Perform Neural Architecture Search?](https://arxiv.org/pdf/2304.10970.pdf) (arxiv’23)
+6. [GPT-NAS] Yu et al. [GPT-NAS: Evolutionary Neural Architecture Search with the Generative Pre-Trained](https://arxiv.org/pdf/2305.05351.pdf) (arxiv’22)
 
 **AutoML for Large Models**
 1. [QuickTune] Arango et al. [Quick-Tune: Quickly Learning Which Pretrained Model to Finetune and How](https://openreview.net/forum?id=tqh1zdXIra) (ICLR’24)
