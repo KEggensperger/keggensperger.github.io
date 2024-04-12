@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Seminar: AutoML in the Age of LLMs and Pre-trained Models"
+title: "Seminar: AutoML in the Age of Large Pre-trained Models"
 collection: teaching
 type: "Seminar"
 permalink: /teaching/2024-summer-seminar
@@ -31,7 +31,7 @@ Why should you attend this seminar?
 ---
 Besides practicing your scientific communication skills, you will also 
   * learn about key contributions in the field of AutoML
-  * be able to discuss recent research on AutoML with and for LLMs/pre-trained models
+  * be able to discuss recent research on AutoML with and for large pre-trained models
   * gain experience in reading, understanding and presenting research papers 
 
 Requirements
