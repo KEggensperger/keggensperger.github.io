@@ -30,9 +30,10 @@ News
 ====
 
 <ul>
-  <li> Mar'24 · 📝 Our paper "Towards quantifying the effect of dataset selection for benchmarking tabular machine learning approaches" has been accepted at DMLR@ICLR'24.</li>
+  <li> Mar'24 · 📝 Our paper "Towards Bandit-based Optimization for Automated Machine Learning" has been accepted for oral presentation at <a href="https://pml4dc.github.io/iclr2024/">PML4LRS@ICLR'24</a>.</li>
+  <li> Mar'24 · 📝 Our paper "Towards quantifying the effect of dataset selection for benchmarking tabular machine learning approaches" has been accepted at <a href="https://dmlr.ai/">DMLR@ICLR'24</a>.</li>
   <li> Feb'24 · 📝 Our paper <a href="https://jair.org/index.php/jair/article/view/14747">"Can Fairness be Automated? Guidelines and Opportunities for Fairness-aware AutoML"</a> has been published at JAIR.</li>
-  <li> Feb'24 · 📓 I will offer a seminar on "AutoML in the Age of LLMs and Pre-trained Models" in the summer semester. Detail will be released <a href="https://keggensperger.github.io/teaching/2024-summer-seminar">here</a>.</li>
+  <li> Feb'24 · 📓 I will offer a seminar on "AutoML in the Age of LLMs and Pre-trained Models" in the summer semester. See <a href="https://keggensperger.github.io/teaching/2024-summer-seminar">here</a>.</li>
   <li> Feb'24 · 🗨️ I will give an invited talk at <a href="https://www.wids-regensburg.de/">Women in Data Science</a> on May 14th on "AutoML: Streamlining Machine Learning"</li>  
   <li> 9th Nov'23 · 🗨️ Together with <a href="https://www.ai.uni-hannover.de/de/institut/team/lindauer/">Marius Lindauer</a> I gave a talk at <a href="https://www.m3-konferenz.de/veranstaltung-21316-se-0-hyperparameter-optimieren-mit-automl.html">MLOps'23</a>: "Hyperparameter Optimieren mit AutoML"</li>  
   <li> 15th Sep'23 · 👋 Welcome my first team member: Amir Rezaei Balef! </li>  
