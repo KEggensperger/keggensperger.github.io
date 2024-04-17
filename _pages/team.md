@@ -50,8 +50,12 @@ author_profile: true
 
 ## Currrent MSc and Bsc Students
 
-  * Timothy Shinners: *PFNs for Bayesian Optimization with Mixed Dimensions*
+  
   * Samuel Wörz: *Probabilistic Wind Power Forecasting with Automated Machine Learning Frameworks* (co-supervised with [Dr. Nicole Ludwig](https://www.mlsustainableenergy.com/de/))
+
+## Former MSc Students
+
+ * 2024 · Timothy Shinners: *Prior-Data Fitted Networks Dan Do Mixed-Variable Bayesian Optimization*
 
 --- 
 
