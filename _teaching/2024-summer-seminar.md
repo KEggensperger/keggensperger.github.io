@@ -48,23 +48,23 @@ we will focus on only a few topics as stated above.
 
 Here is a *tentative* meeting schedule and a *tentative* paper list: 
 
-| Date       | Content                                      |
-|------------|----------------------------------------------|
-| 16.04.2024 | Intro Seminar + Organization                 |
-| 23.04.2024 | Intro AutoML I                               |
-| 30.04.2024 | Intro AutoML II                              |
-| 07.05.2024 | break                                        |
-| 14.05.2024 | break                                        |
-| 21.05.2024 | break                                        |
-| 28.05.2024 | Bayesian Optimization (OptFormer;LLM4BO)     |
-| 04.06.2024 | break                                        |
-| 11.06.2024 | Tabular Data (TabPFN;XTab)                   |
-| 18.06.2024 | Data Science (CAAFEE;MLAgent)                |
-| 25.06.2024 | break                                        |
-| 02.07.2024 | Neural Architecture Search (GPT4NAS;GPT-NAS) |
-| 09.07.2024 | break                                        |
-| 16.07.2024 | FineTuning (QuickTune;EvoPrompt)             |
-| 23.07.2024 | ScalingLaws (TensorV;ScalingLaws4BO)         |
+| Date       | Content                                       |
+|------------|-----------------------------------------------|
+| 16.04.2024 | Intro Seminar + Organization                  |
+| 23.04.2024 | Intro AutoML I                                |
+| 30.04.2024 | Intro AutoML II                               |
+| 07.05.2024 | break                                         |
+| 14.05.2024 | break                                         |
+| 21.05.2024 | break                                         |
+| 28.05.2024 | Bayesian Optimization (OptFormer;LLM4BO)      |
+| 04.06.2024 | break                                         |
+| 11.06.2024 | Tabular Data (TabPFN;XTab)                    |
+| 18.06.2024 | Data Science (CAAFEE;MLAgent)                 |
+| 25.06.2024 | break                                         |
+| 02.07.2024 | Neural Architecture Search (GPT4NAS;GPT-NAS)  |
+| 09.07.2024 | break                                         |
+| 16.07.2024 | FineTuning (QuickTune;Bandits4LLMs;EvoPrompt) |
+| 23.07.2024 | ScalingLaws (TensorV;ScalingLaws4BO)          |
 
 
 **LargeModels for AutoML**
@@ -79,10 +79,10 @@ Here is a *tentative* meeting schedule and a *tentative* paper list:
 
 **AutoML for Large Models**
 1. [QuickTune] Arango et al. [Quick-Tune: Quickly Learning Which Pretrained Model to Finetune and How](https://openreview.net/forum?id=tqh1zdXIra) (ICLR’24)
+2. [Bandits4LLMs] Xia et al. [Which LLM to Play? Convergence-Aware Online Model Selection with Time-Increasing Bandits](https://arxiv.org/pdf/2403.07213v1.pdf) (WWW’24)
 2. [EvoPrompt] Guo et al. [Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers](https://openreview.net/forum?id=ZG3RaNIsO8) (ICLR’24)
 3. [TensorV] Yang et al. [Tuning large neural networks via zero-shot hyperparameter transfer](https://papers.nips.cc/paper/2021/hash/8df7c2e3c3c3be098ef7b382bd2c37ba-Abstract.html) (NeurIPS’21)
 4. [ScalingLaws4BO] Kadra et al. [Scaling Laws for Hyperparameter Optimization](https://proceedings.neurips.cc/paper_files/paper/2023/file/945c781d7194ea81026148838af95af7-Paper-Conference.pdf) (Neurips’23)
-
 
 
 
