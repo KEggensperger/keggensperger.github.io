@@ -48,23 +48,23 @@ we will focus on only a few topics as stated above.
 
 Here is a *tentative* meeting schedule and a *tentative* paper list: 
 
-| Date       | Content                                                                                                                                                                                                             |
-|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 16.04.2024 | Intro: [Organization](https://keggensperger.github.io/files/2024_AutoMLSeminar_Intro.pdf)                                                                                                                           |
-| 23.04.2024 | Intro: [Bayesian Optimization](https://keggensperger.github.io/files/2024_AutoMLSeminar_BO.pdf) / [How to give a good presentation](https://keggensperger.github.io/files/2024_AutoMLSeminar_GoodPresentations.pdf) |
-| 30.04.2024 | Intro AutoML II                                                                                                                                                                                                     |
-| 07.05.2024 | break                                                                                                                                                                                                               |
-| 14.05.2024 | break                                                                                                                                                                                                               |
-| 21.05.2024 | break                                                                                                                                                                                                               |
-| 28.05.2024 | Bayesian Optimization (OptFormer;LLM4BO)                                                                                                                                                                            |
-| 04.06.2024 | break                                                                                                                                                                                                               |
-| 11.06.2024 | Tabular Data (TabPFN;XTab)                                                                                                                                                                                          |
-| 18.06.2024 | Data Science (CAAFEE;MLAgent)                                                                                                                                                                                       |
-| 25.06.2024 | break                                                                                                                                                                                                               |
-| 02.07.2024 | Neural Architecture Search (GPT4NAS;GPT-NAS)                                                                                                                                                                        |
-| 09.07.2024 | break                                                                                                                                                                                                               |
-| 16.07.2024 | FineTuning (QuickTune;Bandits4LLMs;EvoPrompt)                                                                                                                                                                       |
-| 23.07.2024 | ScalingLaws (TensorV;ScalingLaws4BO)                                                                                                                                                                                |
+| Date       | Content                                                                                                                         |
+|------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 16.04.2024 | Intro: [Organization](https://keggensperger.github.io/files/2024_AutoMLSeminar_Intro.pdf)                                       |
+| 23.04.2024 | Intro: [Bayesian Optimization](https://keggensperger.github.io/files/2024_AutoMLSeminar_BO.pdf)                                 |
+| 30.04.2024 | Intro:  [How to give a good presentation](https://keggensperger.github.io/files/2024_AutoMLSeminar_GoodPresentations.pdf) / TBA |
+| 07.05.2024 | break                                                                                                                           |
+| 14.05.2024 | break                                                                                                                           |
+| 21.05.2024 | break                                                                                                                           |
+| 28.05.2024 | Bayesian Optimization (OptFormer;LLM4BO)                                                                                        |
+| 04.06.2024 | break                                                                                                                           |
+| 11.06.2024 | Tabular Data (TabPFN;XTab)                                                                                                      |
+| 18.06.2024 | Data Science (CAAFEE;MLAgent)                                                                                                   |
+| 25.06.2024 | break                                                                                                                           |
+| 02.07.2024 | Neural Architecture Search (GPT4NAS;GPT-NAS)                                                                                    |
+| 09.07.2024 | break                                                                                                                           |
+| 16.07.2024 | FineTuning (QuickTune;Bandits4LLMs;EvoPrompt)                                                                                   |
+| 23.07.2024 | ScalingLaws (TensorV;ScalingLaws4BO)                                                                                            |
 
 
 **LargeModels for AutoML**
