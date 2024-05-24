@@ -4,5 +4,6 @@ author: "Ravin Kohli, Matthias Feurer, Bernd Bischl, *Katharina Eggensperger*, F
 collection: publications
 permalink: /publication/2024-DMLR_Tabular
 date: 2024-03-14
-venue: "Data-centric Machine Learning Research (DMLR) workshop at ICLR"
+paperurl: 'https://openreview.net/forum?id=ACLLU9nQ2E'
+venue: "Data-centric Machine Learning Research (DMLR) workshop at ICLR'24"
 ---

@@ -30,14 +30,14 @@ News
 ====
 
 <ul>
+  <li> May'24 · 📝 Our paper <a href="https://arxiv.org/abs/2405.02200">"Position: Why We Must Rethink Empirical Research in Machine Learning"</a> has been accepted at ICML'24.</li>
+  <li> May'24 · 🗨️ I gave an invited talk at <a href="https://www.wids-regensburg.de/">Women in Data Science Regensburg</a> on "AutoML: Streamlining Machine Learning".</li>
   <li> Mar'24 · 📝 Our paper "Towards Bandit-based Optimization for Automated Machine Learning" has been accepted for oral presentation at <a href="https://pml4dc.github.io/iclr2024/">PML4LRS@ICLR'24</a>.</li>
-  <li> Mar'24 · 📝 Our paper "Towards quantifying the effect of dataset selection for benchmarking tabular machine learning approaches" has been accepted at <a href="https://dmlr.ai/">DMLR@ICLR'24</a>.</li>
+  <li> Mar'24 · 📝 Our paper <a href="https://openreview.net/forum?id=ACLLU9nQ2E">"Towards quantifying the effect of dataset selection for benchmarking tabular machine learning approaches"</a> has been accepted at <a href="https://dmlr.ai/">DMLR@ICLR'24</a>.</li>
   <li> Feb'24 · 📝 Our paper <a href="https://jair.org/index.php/jair/article/view/14747">"Can Fairness be Automated? Guidelines and Opportunities for Fairness-aware AutoML"</a> has been published at JAIR.</li>
-  <li> Feb'24 · 📓 I will offer a seminar on "AutoML in the Age of LLMs and Pre-trained Models" in the summer semester. See <a href="https://keggensperger.github.io/teaching/2024-summer-seminar">here</a>.</li>
-  <li> Feb'24 · 🗨️ I will give an invited talk at <a href="https://www.wids-regensburg.de/">Women in Data Science</a> on May 14th on "AutoML: Streamlining Machine Learning"</li>  
+  <li> Feb'24 · 📓 I will offer a seminar on "AutoML in the Age of Large Pre-trained Models" in the summer semester. See <a href="https://keggensperger.github.io/teaching/2024-summer-seminar">here</a>.</li>
   <li> 9th Nov'23 · 🗨️ Together with <a href="https://www.ai.uni-hannover.de/de/institut/team/lindauer/">Marius Lindauer</a> I gave a talk at <a href="https://www.m3-konferenz.de/veranstaltung-21316-se-0-hyperparameter-optimieren-mit-automl.html">MLOps'23</a>: "Hyperparameter Optimieren mit AutoML"</li>  
   <li> 15th Sep'23 · 👋 Welcome my first team member: Amir Rezaei Balef! </li>  
-  <li> Sep'23 · 📓 I offer a seminar on "Automated Machine Learning and Hyperparameter Optimization" in the winter semester. Find all details <a href="https://keggensperger.github.io/teaching/2023-winter-seminar">here</a>.</li>
   <li> 1st Sep'23 · 🥳 I am thrilled to be a program chair for <a href="https://2024.automl.cc/">AutoML 2024</a> in Paris (together with <a href="https://www.cse.wustl.edu/~garnett/">Roman Garnett</a> and <a href="https://joaquinvanschoren.github.io">Joaquin Vanschoren</a>
 , and <a href="https://www.ai.uni-hannover.de/de/institut/team/lindauer/">Marius Lindauer</a> as the General Chair) </li>
 </ul>
@@ -45,6 +45,7 @@ News
 <details>
 	<summary>more entries</summary>
 <ul>
+  <li> Sep'23 · 📓 I offer a seminar on "Automated Machine Learning and Hyperparameter Optimization" in the winter semester. Find all details <a href="https://keggensperger.github.io/teaching/2023-winter-seminar">here</a>.</li>
   <li> 12th-15th Sept'23 · 🥳 Together with <a href="https://www.slds.stat.uni-muenchen.de/people/feurer/">Matthias Feurer</a> I am organizing the social program for AutoML 2023! Find all details <a href="automl.cc">here</a>.</li>
   <li> July'23 · 🗨️ Together with <a href="https://www.ai.uni-hannover.de/de/institut/team/lindauer/">Marius Lindauer</a> I will give a lecture on "AutoML: Accelerating Research on and Development of AI Applications" at the <a href="https://essai.ijs.si/">ESSAI Summer School</a>! </li> 
   <li> June'23 · 🗨️ Together with <a href="https://ml.informatik.uni-freiburg.de/profile/bergman/">Eddie Bergman</a> I gave a *Hands-On Session* at the <a href="https://freiburg-ai.github.io/">nextgen_AI</a> Freiburg workshop: "Automated Machine Learning with Auto-sklearn" </li>
