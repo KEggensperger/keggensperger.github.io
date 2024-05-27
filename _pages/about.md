@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 I am an Early Career Research Group Leader [AutoML for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/research-groups/automl-for-science/) in the Cluster of 
-Excellence [Machine Learning for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/) (see also the [Cluster's blog](https://www.machinelearningforscience.de/)) at 
-the University of Tübingen.
+Excellence [Machine Learning for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/) at the University of Tübingen.
 
 **Short Bio** 
 
