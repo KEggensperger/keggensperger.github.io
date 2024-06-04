@@ -61,8 +61,8 @@ Here is a *tentative* meeting schedule and a *tentative* paper list:
 | 11.06.2024 | Tabular Data (TabPFN;CAAFE)                                                                                           |
 | 18.06.2024 | Data Science (MLAgent;QuickTune)                                                                                      |
 | 25.06.2024 | break                                                                                                                 |
-| 02.07.2024 | Neural Architecture Search (GPT4NAS;GPT-NAS)                                                                          |
-| 09.07.2024 | break                                                                                                                 |
+| 02.07.2024 | break                                                                                                                 |
+| 09.07.2024 | Neural Architecture Search (GPT4NAS;GPT-NAS)                                                                          |
 | 16.07.2024 | FineTuning (Bandits4LLMs;EvoPrompt)                                                                                   |
 | 23.07.2024 | no meeting                                                                                                            |
 
