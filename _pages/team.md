@@ -51,11 +51,12 @@ author_profile: true
 ## Currrent MSc and Bsc Students
 
   
-  * Samuel Wörz: *Probabilistic Wind Power Forecasting with Automated Machine Learning Frameworks* (co-supervised with [Dr. Nicole Ludwig](https://www.mlsustainableenergy.com/de/))
 
 ## Former MSc Students
 
  * 2024 · Timothy Shinners: *Prior-Data Fitted Networks Dan Do Mixed-Variable Bayesian Optimization*
+ * 2024 · Samuel Wörz: *Probabilistic Wind Power Forecasting with Automated Machine Learning Frameworks* (co-supervised with [Dr. Nicole Ludwig](https://www.mlsustainableenergy.com/de/))
+ * 2024 · (external) Arne Cremer: *Using GANs to interpolate between AUTOSAR graphs considering model validity*
 
 --- 
 
