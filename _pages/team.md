@@ -50,13 +50,13 @@ author_profile: true
 
 ## Currrent MSc and Bsc Students
 
-  
+ * 2024 · (external) Lennart Metz: *Robust and Fast Transformer-based Models for Bio-medical Data*
 
-## Former MSc Students
+## Former MSc and BSc Students
 
- * 2024 · Timothy Shinners: *Prior-Data Fitted Networks Dan Do Mixed-Variable Bayesian Optimization*
- * 2024 · Samuel Wörz: *Probabilistic Wind Power Forecasting with Automated Machine Learning Frameworks* (co-supervised with [Dr. Nicole Ludwig](https://www.mlsustainableenergy.com/de/))
- * 2024 · (external) Arne Cremer: *Using GANs to interpolate between AUTOSAR graphs considering model validity*
+ * 2024 · Timothy Shinners [MSc]: *Prior-Data Fitted Networks Dan Do Mixed-Variable Bayesian Optimization*
+ * 2024 · Samuel Wörz [MSc]: *Probabilistic Wind Power Forecasting with Automated Machine Learning Frameworks* (co-supervised with [Dr. Nicole Ludwig](https://www.mlsustainableenergy.com/de/))
+ * 2024 · (external) Arne Cremer [MSc]: *Using GANs to interpolate between AUTOSAR graphs considering model validity*
 
 --- 
 
