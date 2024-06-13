@@ -5,8 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
-  * 2024 · *Invited Talk*, [WiDS Regensburg](https://www.wids-regensburg.de/): "AutoML: Streamlining Machine Learning"
-  * 2024 · *Invited Talk*, *Bosch IoC Lab & Uni Tübingen - Invited Talk Series*: "AutoML to Streamline ML"
+  * 2024 · [upcoming] *Invited Talk*, ML in Science Conference, Tübingen: "TBA"
+  * 2024 · [upcoming] *Invited Talk*, Meta Adaptive Experimentation Workshop, New York: "Modular AutoML Systems"
+  * 2024 · *Invited Talk*, [WiDS](https://www.wids-regensburg.de/), Regensburg: "AutoML: Streamlining Machine Learning"
+  * 2024 · *Invited Talk*, *Bosch IoC Lab & Uni Tübingen - Invited Talk Series*, online: "AutoML to Streamline ML"
   * 2024 · *Invited Talk*, Group Talk [Kognitive Systeme](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/) at Uni Tübingen: " AutoML: Accelerating Research on and Development of ML Systems"
 
 ---
