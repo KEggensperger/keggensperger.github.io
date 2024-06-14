@@ -1,6 +1,6 @@
 ---
 title: "Towards Bandit-based Optimization for Automated Machine Learning"
-author: "Amir Rezaei Balef, Claire Vernade, *Katharina Eggensperger*"
+author: "*Amir Rezaei Balef*, Claire Vernade, *Katharina Eggensperger*"
 collection: publications
 permalink: /publication/2024-PML4LRS-Bandits
 date: 2024-05-01
