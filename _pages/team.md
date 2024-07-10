@@ -51,6 +51,7 @@ author_profile: true
 ## Currrent MSc and Bsc Students
 
  * 2024 · (external) Lennart Metz: *Robust and Fast Transformer-based Models for Bio-medical Data*
+ * 2024 · Magnus Hornstein: *Stopping Criteria for Bayesian Optimization with Random Forests*
 
 ## Former MSc and BSc Students
 
