@@ -29,6 +29,7 @@ News
 ====
 
 <ul>
+  <li> July'24 · 🗨️ I gave an invited talk at the "ML in Science Conference" in Tübingen on "Automated Machine Learning for Science" </li>
   <li> June'24 · 👋 Welcome our new group member: Mykahilo Koshil! </li>  
   <li> May'24 · 📝 Our paper <a href="https://arxiv.org/abs/2405.02200">"Position: Why We Must Rethink Empirical Research in Machine Learning"</a> has been accepted at ICML'24.</li>
   <li> May'24 · 🗨️ I gave an invited talk at <a href="https://www.wids-regensburg.de/">Women in Data Science Regensburg</a> on "AutoML: Streamlining Machine Learning".</li>
@@ -44,7 +45,7 @@ News
 	<summary>more entries</summary>
 <ul>
   <li> 9th Nov'23 · 🗨️ Together with <a href="https://www.ai.uni-hannover.de/de/institut/team/lindauer/">Marius Lindauer</a> I gave a talk at <a href="https://www.m3-konferenz.de/veranstaltung-21316-se-0-hyperparameter-optimieren-mit-automl.html">MLOps'23</a>: "Hyperparameter Optimieren mit AutoML"</li>  
-  <li> 15th Sep'23 · 👋 Welcome my first team member: Amir Rezaei Balef! </li>
+  <li> 15th Sep'23 · 👋 Welcome my first group member: Amir Rezaei Balef! </li>
   <li> Sep'23 · 📓 I offer a seminar on "Automated Machine Learning and Hyperparameter Optimization" in the winter semester. Find all details <a href="https://keggensperger.github.io/teaching/2023-winter-seminar">here</a>.</li>
   <li> 12th-15th Sept'23 · 🥳 Together with <a href="https://www.slds.stat.uni-muenchen.de/people/feurer/">Matthias Feurer</a> I am organizing the social program for AutoML 2023! Find all details <a href="automl.cc">here</a>.</li>
   <li> July'23 · 🗨️ Together with <a href="https://www.ai.uni-hannover.de/de/institut/team/lindauer/">Marius Lindauer</a> I will give a lecture on "AutoML: Accelerating Research on and Development of AI Applications" at the <a href="https://essai.ijs.si/">ESSAI Summer School</a>! </li> 
