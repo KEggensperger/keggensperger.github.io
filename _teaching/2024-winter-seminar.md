@@ -9,16 +9,15 @@ date: 2024-06-11
 location: "Tübingen"
 ---
 
+What is tabular data? And which model would you use for it? Why is tabular data challenging for machine learning? And how would you compare learning approaches on tabular data?
 
-Have you heard about AutoML? Do you wonder what LLMs can do for AutoML and vice versa? Then this seminar is for you!
-
-**TL;DR** AutoML aims to support ML users (and ML researchers) by 
-automating parts of the ML workflow. In this seminar we will read recent
-research papers in the field of AutoML with a focus on methods for and with LLMs 
-and pre-trained models. For a detailed overview, see this [paper](https://arxiv.org/abs/2306.08107).
+**TL;DR** Tabular data is omnipresent and tabular ML offers many solutions.  
+This seminar will navigate the landscape of ML models for tabular data (which is the ideal playground for AutoML). We will read recent
+research papers in the field of tabular ML with a focus on large- and pretrained neural networks defining model tabular ML.
+To get excited, you can have a look at this [position paper on why we need more tabular foundation models](https://arxiv.org/abs/2306.08107).
 
 
-| Course Title | AutoML in the Age of LLMs and Pre-trained Models                                                                                                                                                                                    |
+| Course Title | (Auto-)ML for tabular data                                                                                                                                                                                    |
 |--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Course ID    | ML4501f                                                                                                                                                                                                                             |
 | Registration | [ILIAS](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_4566638&client_id=pr02)                                                                                                                                         |
@@ -50,10 +49,7 @@ The seminar focuses on understanding the challenges of learning from tabular rep
 papers trying to understand what makes tabular data a challenging data modality for some model classes and state-of-the-art
 deep learning architectures build to excel on this data modality. 
 
-As a motivation, you can have a look at this position paper on [tabular foundation models](https://arxiv.org/abs/2405.01147).
 If you're excited, stay tuned till we've finalized paper list.
-
-Here is a *tentative* meeting schedule and a *tentative* paper list: 
 
 | Date | Content                                                                                                                         |
 |------|---------------------------------------------------------------------------------------------------------------------------------|
