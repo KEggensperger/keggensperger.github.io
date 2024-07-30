@@ -31,7 +31,7 @@ and pre-trained models. For a detailed overview, see this [paper](https://arxiv.
 Why should you attend this seminar?
 ---
 Tabular data is everywhere any probably you have heard about it in your first machine learning lecture. 
-But what is tabular data? And why is it challenging for machine learning? And how would you compare learning approaches on this modality? 
+But what is tabular data? And why is it challenging for machine learning? And how would you compare learning approaches on this modality?
 
 In this seminar, we will discuss these any many more questions. Additionally, besides learning about this topic and practicing your scientific communication skills, you will also 
   * learn about key contributions in the field of tabular machine learning
@@ -49,6 +49,9 @@ Topics
 The seminar focuses on understanding the challenges of learning from tabular representations. We will discuss research 
 papers trying to understand what makes tabular data a challenging data modality for some model classes and state-of-the-art
 deep learning architectures build to excel on this data modality. 
+
+As a motivation, you can have a look at this position paper on [tabular foundation models](https://arxiv.org/abs/2405.01147).
+If you're excited, stay tuned till we've finalized paper list.
 
 Here is a *tentative* meeting schedule and a *tentative* paper list: 
 
