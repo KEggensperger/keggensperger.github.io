@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Seminar: AutoML"
+title: "Seminar: (Auto-)ML for tabular data"
 collection: teaching
 type: "Seminar"
 permalink: /teaching/2024-winter-seminar
