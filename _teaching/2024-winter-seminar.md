@@ -65,11 +65,11 @@ We will meet each week (with a few exceptions). In the first few weeks, we will 
 Other Important information
 ---
 
-**Registration:** Please register on ILIAS. The number of participants is limited and the registration opens on **TBA**. 
-There will be a waiting list (please unregister to let other people take your place). 
-Please come to the first lecture even if you are still on the waiting list. If you're enrolled and don't show up, your spot will be freed for someone on the waiting list.
+**Registration:** Please register on ILIAS. The signup will kept open and unlimited until the first meeting. The registration opens on **September 30th, 12:00, noon**.
+In the first meeting, I will give an introduction to the topic and the papers. Afterward, we'll do will do the final and also binding registration and assignment. So, please come to the first lecture!
 
-**Grading/Presentations:** Grades will be based on your presentation, slides, active participation and a short report. Further details will be discussed in the intro session.
+**Grading/Presentations:** Grades will be based on your presentation, slides, active participation and a short report. Further details will be discussed in the introductory sessions
+.
 
 
  
