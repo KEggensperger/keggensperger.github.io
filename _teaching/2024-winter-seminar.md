@@ -17,14 +17,14 @@ research papers in the field of tabular ML with a focus on large- and pretrained
 To get excited, you can have a look at this [position paper on why we need more tabular foundation models](https://arxiv.org/abs/2306.08107).
 
 
-| Course Title | (Auto-)ML for tabular data                                                                                                                                                                                    |
+| Course Title | (Auto-)ML for tabular data                                                                                                                                                                                                          |
 |--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Course ID    | ML4501f                                                                                                                                                                                                                             |
 | Registration | [ILIAS](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_4780184&client_id=pr02)                                                                                                                                         |
 | ECTS         | 3                                                                                                                                                                                                                                   |
-| Time         | Tuesdays, 12:15-13:45                                                                                                                                                                                                               |
+| Time         | TBA                                                                                                                                                                                                                                 |
 | Language     | english                                                                                                                                                                                                                             |
-| #participants | up to 12                                                                                                                                                                                                                            |
+| #participants | TBA                                                                                                                                                                                                                                 |
 | Location     | in-person at [Maria-von-Linden-Straße 6](https://uni-tuebingen.de/einrichtungen/personalvertretungen-beratung-beauftragte/lageplaene/karte-c-sand-aussenbereiche-innenstadt/maria-von-linden-strasse-6/); lecture hall ground floor |
 
 Why should you attend this seminar?
