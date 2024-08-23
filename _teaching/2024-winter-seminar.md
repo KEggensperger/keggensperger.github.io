@@ -22,7 +22,7 @@ To get excited, you can have a look at this [position paper on why we need more 
 | Course ID    | ML4501f                                                                                                                                                                                                                             |
 | Registration | [ILIAS](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_4780184&client_id=pr02)                                                                                                                                         |
 | ECTS         | 3                                                                                                                                                                                                                                   |
-| Time         | TBA                                                                                                                                                                                                                                 |
+| Time         | Thursdays, 14:15-15:45                                                                                                                                                                                                              |                                                                                                                                                                                                                                           |
 | Language     | english                                                                                                                                                                                                                             |
 | #participants | TBA                                                                                                                                                                                                                                 |
 | Location     | in-person at [Maria-von-Linden-Straße 6](https://uni-tuebingen.de/einrichtungen/personalvertretungen-beratung-beauftragte/lageplaene/karte-c-sand-aussenbereiche-innenstadt/maria-von-linden-strasse-6/); lecture hall ground floor |
@@ -30,7 +30,7 @@ To get excited, you can have a look at this [position paper on why we need more 
 Why should you attend this seminar?
 ---
 Tabular data is everywhere any probably you have heard about it in your first machine learning lecture. 
-But what is tabular data? And why is it challenging for machine learning? And how would you compare learning approaches on this modality?
+But what is tabular data? And why is it challenging for machine learning? And what are recent models on this modality?
 
 In this seminar, we will discuss these any many more questions. Additionally, besides learning about this topic and practicing your scientific communication skills, you will also 
   * learn about key contributions in the field of tabular machine learning
@@ -54,8 +54,6 @@ If you're excited, stay tuned till we've finalized paper list.
 | Date | Content                                                                                                                         |
 |------|---------------------------------------------------------------------------------------------------------------------------------|
 | TBA  |                                                                                        |
-
-
 
 How the seminar will look like?
 ---
