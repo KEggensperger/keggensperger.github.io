@@ -23,12 +23,14 @@ and [Marius Lindauer](https://www.ai.uni-hannover.de/de/institut/team/lindauer) 
 open-source tools for HPO methods and AutoML systems and have been a member of the team winning three AutoML 
 competitions (2016, 2018, 2020). I am a junior head of the [Automl.org](automl.org) group, member of the [COSEAL](https://www.coseal.net/) group and a faculty member of [IMPRS-IS](https://imprs.is.mpg.de/). 
 Furthermore, I co-organized the AutoML workshop series at ICML in [2019](https://sites.google.com/view/automl2019icml/), [2020](https://sites.google.com/view/automl2020/home) 
-and [2021](https://sites.google.com/view/automl2021) and served as a social chair (2022,2023) and as a program chair (2024) for the [AutoML Conference](www.automl.cc). 
+and [2021](https://sites.google.com/view/automl2021), served as a social chair (2022,2023) and as a program chair (2024) for the [AutoML Conference](www.automl.cc) and am co-leading the [Tübingen Women in Machine Learning](https://tuewiml.github.io/) group. 
 
 News
 ====
 
 <ul>
+  <li> Oct'24 · 📓 I will offer a seminar on "(Auto-)ML for tabular data" in the winter semester. See <a href="https://keggensperger.github.io/teaching/2024-winter-seminar">here</a>.</li>
+  <li> Sep'24 · 🗨️ I will give an invited Talk at the <a href="https://www.meetup.com/paris-women-in-machine-learning-data-science/events/302432984/">"AutoML Conference X Paris WiMLDS"</a></li>
   <li> July'24 · 🗨️ I gave an invited talk at the "ML in Science Conference" in Tübingen on "Automated Machine Learning for Science" </li>
   <li> June'24 · 👋 Welcome our new group member: Mykahilo Koshil! </li>  
   <li> May'24 · 📝 Our paper <a href="https://arxiv.org/abs/2405.02200">"Position: Why We Must Rethink Empirical Research in Machine Learning"</a> has been accepted at ICML'24.</li>
