@@ -51,9 +51,25 @@ deep learning architectures build to excel on this data modality.
 
 If you're excited, stay tuned till we've finalized paper list.
 
-| Date | Content                                                                                                                         |
-|------|---------------------------------------------------------------------------------------------------------------------------------|
-| TBA  |                                                                                        |
+| Date       | Content             |
+|------------|---------------------|
+| 17.10.2024 | Intro               |
+| 24.10.2024 | Intro II            |
+| 31.10.2024 | 🎃                  |
+| 07.11.2024 | no meeting          |
+| 14.11.2024 | Intro II            |
+| 21.11.2024 | slot                |
+| 28.11.2024 | slot                |
+| 05.12.2024 | slot                |
+| 12.12.2024 | slot                |
+| 19.12.2024 | slot                |
+| 26.12.2024 | 🌲                  |
+| 02.01.2025 | 🎆                  |
+| 09.01.2025 | no meeting          |
+| 16.01.2025 | probably no meeting |
+| 23.01.2025 | slot                |
+| 30.01.2025 | slot                |
+| 06.02.2025 | probably no meeting |
 
 How the seminar will look like?
 ---
