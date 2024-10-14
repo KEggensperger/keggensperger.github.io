@@ -29,10 +29,11 @@ News
 ====
 
 <ul>
+  <li> Oct'24 · 📮 The deadline for applying for PhD positions at [IMPRS-IS](https://imprs.is.mpg.de/) is on **Nov 15th**. Here is an [example call for a PhD position](https://keggensperger.github.io/files/2024_JobPosting.pdf) or reach out to me in case of any questions! </li>
   <li> Oct'24 · 📓 I will offer a seminar on "(Auto-)ML for tabular data" in the winter semester. See <a href="https://keggensperger.github.io/teaching/2024-winter-seminar">here</a>.</li>
   <li> Sep'24 · 🗨️ I will give an invited Talk at the <a href="https://www.meetup.com/paris-women-in-machine-learning-data-science/events/302432984/">"AutoML Conference X Paris WiMLDS"</a></li>
   <li> July'24 · 🗨️ I gave an invited talk at the "ML in Science Conference" in Tübingen on "Automated Machine Learning for Science" </li>
-  <li> June'24 · 👋 Welcome our new group member: Mykahilo Koshil! </li>  
+  <li> June'24 · 👋 Welcome our new group member: Mykhailo Koshil! </li>  
   <li> May'24 · 📝 Our paper <a href="https://arxiv.org/abs/2405.02200">"Position: Why We Must Rethink Empirical Research in Machine Learning"</a> has been accepted at ICML'24.</li>
   <li> May'24 · 🗨️ I gave an invited talk at <a href="https://www.wids-regensburg.de/">Women in Data Science Regensburg</a> on "AutoML: Streamlining Machine Learning".</li>
   <li> Mar'24 · 📝 Our paper "Towards Bandit-based Optimization for Automated Machine Learning" has been accepted for oral presentation at <a href="https://pml4dc.github.io/iclr2024/">PML4LRS@ICLR'24</a>.</li>
@@ -66,4 +67,4 @@ Misc
 
 **Note:** For links to slides, tutorials and videos, please see [talks](https://keggensperger.github.io/talks/), [teaching](https://keggensperger.github.io/teaching/) and [Automl.org](Automl.org)
 
-**Want to work with me?** I typically recruit PhD students via [IMPRS-IS](https://imprs.is.mpg.de/) (Deadline mid-November each year). Here is an [example call for a PhD position](https://keggensperger.github.io/files/2023_JobPosting.pdf) or reach out to me for more details! 
+**Want to work with me?** I recruit PhD students via [IMPRS-IS](https://imprs.is.mpg.de/) (Deadline 15th November 2024). Here is an [example call for a PhD position](https://keggensperger.github.io/files/2024_JobPosting.pdf) or reach out to me in case of any questions! 
