@@ -29,7 +29,7 @@ News
 ====
 
 <ul>
-  <li> Oct'24 · 📮 The deadline for applying for PhD positions at [IMPRS-IS](https://imprs.is.mpg.de/) is on **Nov 15th**. Here is an [example call for a PhD position](https://keggensperger.github.io/files/2024_JobPosting.pdf) or reach out to me in case of any questions! </li>
+  <li> Oct'24 · 📮 The deadline for applying for PhD positions at <a href="https://imprs.is.mpg.de/">IMPRS-IS</a> is on **Nov 15th**. Here is an <a href="https://keggensperger.github.io/files/2024_JobPosting.pdf">example call for a PhD position</a> or reach out to me in case of any questions! </li>
   <li> Oct'24 · 📓 I will offer a seminar on "(Auto-)ML for tabular data" in the winter semester. See <a href="https://keggensperger.github.io/teaching/2024-winter-seminar">here</a>.</li>
   <li> Sep'24 · 🗨️ I will give an invited Talk at the <a href="https://www.meetup.com/paris-women-in-machine-learning-data-science/events/302432984/">"AutoML Conference X Paris WiMLDS"</a></li>
   <li> July'24 · 🗨️ I gave an invited talk at the "ML in Science Conference" in Tübingen on "Automated Machine Learning for Science" </li>
