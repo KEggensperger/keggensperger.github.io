@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+  * 2024 · *Invited Talk*, WIML@AutoML Conf, Paris, France: "A Short Story on AutoML"
   * 2024 · *Invited Talk*, ML in Science Conference, Tübingen, Germany: "Automated Machine Learning for Science"
   * 2024 · *Invited Talk*, Meta Adaptive Experimentation Workshop, New York, USA: "Modular AutoML Systems"
   * 2024 · *Invited Talk*, [WiDS](https://www.wids-regensburg.de/), Regensburg, Germany: "AutoML: Streamlining Machine Learning"
