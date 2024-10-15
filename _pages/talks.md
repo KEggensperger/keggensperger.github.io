@@ -5,10 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
-  * 2024 · *Invited Talk*, WIML@AutoML Conf, Paris, France: "A Short Story on AutoML"
-  * 2024 · *Invited Talk*, ML in Science Conference, Tübingen, Germany: "Automated Machine Learning for Science"
+  * 2024 · *Invited Talk*, WIML@[AutoML Conf](https://2024.automl.cc/), Paris, France: "A Short Story on AutoML" [slides](https://drive.google.com/file/d/1VX4IiH1Rv6HlmONZEf0IZmpoVOYsAumd/view?usp=drive_link)
+  * 2024 · *Invited Talk*, [ML in Science Conference](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/events/events/#c2021889/), Tübingen, Germany: "Automated Machine Learning for Science"
   * 2024 · *Invited Talk*, Meta Adaptive Experimentation Workshop, New York, USA: "Modular AutoML Systems"
-  * 2024 · *Invited Talk*, [WiDS](https://www.wids-regensburg.de/), Regensburg, Germany: "AutoML: Streamlining Machine Learning"
+  * 2024 · *Invited Talk*, [WiDS](https://www.wids-regensburg.de/), Regensburg, Germany: "AutoML: Streamlining Machine Learning" [slides](https://www.wids-regensburg.de/wp-content/uploads/2024/06/WiDS_Regensburg_slides_2024.zip)
   * 2024 · *Invited Talk*, *Bosch IoC Lab & Uni Tübingen - Invited Talk Series*, online: "AutoML to Streamline Machine Learning"
   * 2024 · *Invited Talk*, Group Talk [Kognitive Systeme](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/), Uni Tübingen, Germany: " AutoML: Accelerating Research on and Development of ML Systems"
 
