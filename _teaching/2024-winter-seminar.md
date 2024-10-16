@@ -52,8 +52,8 @@ ML methods build to excel on this data modality.
 | Date       | Content                      |
 |------------|------------------------------|
 | 17.10.2024 | Intro                        |
-| 24.10.2024 | Intro II                     |
-| 31.10.2024 | 🎃 no meeting                |
+| 24.10.2024 | no meeting                       |
+| 31.10.2024 | Intro I                      |
 | 07.11.2024 | no meeting                   |
 | 14.11.2024 | Intro II                     |
 | 21.11.2024 | slot 1                       |
@@ -61,7 +61,7 @@ ML methods build to excel on this data modality.
 | 05.12.2024 | slot 3                       |
 | 12.12.2024 | slot 4                       |
 | 19.12.2024 | slot 5                       |
-| 26.12.2024 | 🌲 no meeting               |
+| 26.12.2024 | 🌲 no meeting                |
 | 02.01.2025 | 🎆 no meeting                |
 | 09.01.2025 | no meeting                   |
 | 16.01.2025 | slot 6                       |
