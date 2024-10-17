@@ -17,14 +17,14 @@ research papers in the field of tabular ML with a focus on large- and pretrained
 To get excited, you can have a look at this [position paper on why we need more tabular foundation models](https://arxiv.org/abs/2306.08107).
 
 
-| Course Title | (Auto-)ML for tabular data                                                                                                                                                                                                               |
-|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Course ID    | ML4501f                                                                                                                                                                                                                                  |
-| Registration | [ILIAS](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_4780184&client_id=pr02)                                                                                                                                              |
-| ECTS         | 3                                                                                                                                                                                                                                        |
-| Time         | Thursdays, 14:15-15:45                                                                                                                                                                                                                   |                                                                                                                                                                                                                                           |
-| Language     | english                                                                                                                                                                                                                                  |
-| #participants | TBA                                                                                                                                                                                                                                      |
+| Course Title | (Auto-)ML for tabular data                                                                                                                                                                                                          |
+|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Course ID    | ML4501f                                                                                                                                                                                                                             |
+| Registration | [ILIAS](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_4780184&client_id=pr02)                                                                                                                                         |
+| ECTS         | 3                                                                                                                                                                                                                                   |
+| Time         | Thursdays, 14:15-15:45                                                                                                                                                                                                              |                                                                                                                                                                                                                                           |
+| Language     | english                                                                                                                                                                                                                             |
+| #participants | max 14                                                                                                                                                                                                                              |
 | Location     | in-person at [Maria-von-Linden-Straße 6](https://uni-tuebingen.de/einrichtungen/personalvertretungen-beratung-beauftragte/lageplaene/karte-c-sand-aussenbereiche-innenstadt/maria-von-linden-strasse-6/); seminar room ground floor |
 
 Why should you attend this seminar?
@@ -49,25 +49,25 @@ The seminar focuses on understanding the challenges of learning from tabular rep
 papers trying to understand what makes tabular data a challenging data modality for some model classes and state-of-the-art
 ML methods build to excel on this data modality. 
 
-| Date       | Content                      |
-|------------|------------------------------|
-| 17.10.2024 | Intro                        |
-| 24.10.2024 | no meeting                       |
-| 31.10.2024 | Intro I                      |
-| 07.11.2024 | no meeting                   |
-| 14.11.2024 | Intro II                     |
-| 21.11.2024 | slot 1                       |
-| 28.11.2024 | slot 2                       |
-| 05.12.2024 | slot 3                       |
-| 12.12.2024 | slot 4                       |
-| 19.12.2024 | slot 5                       |
-| 26.12.2024 | 🌲 no meeting                |
-| 02.01.2025 | 🎆 no meeting                |
-| 09.01.2025 | no meeting                   |
-| 16.01.2025 | slot 6                       |
-| 23.01.2025 | slot 7                       |
-| 30.01.2025 | buffer / probably no meeting |
-| 06.02.2025 | buffer / probably no meeting |
+| Date       | Content                                                                                                                                                                                                |
+|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 17.10.2024 | [Orga](https://keggensperger.github.io/files/2024_winter_AutoMLSeminar_Intro.pdf)) / [How to give a good presentation](https://keggensperger.github.io/files/2024_AutoMLSeminar_GoodPresentations.pdf) |
+| 24.10.2024 | no meeting                                                                                                                                                                                             |
+| 31.10.2024 | Intro I                                                                                                                                                                                                |
+| 07.11.2024 | no meeting                                                                                                                                                                                             |
+| 14.11.2024 | Intro II                                                                                                                                                                                               |
+| 21.11.2024 | slot 1                                                                                                                                                                                                 |
+| 28.11.2024 | slot 2                                                                                                                                                                                                 |
+| 05.12.2024 | slot 3                                                                                                                                                                                                 |
+| 12.12.2024 | slot 4                                                                                                                                                                                                 |
+| 19.12.2024 | slot 5                                                                                                                                                                                                 |
+| 26.12.2024 | 🌲 no meeting                                                                                                                                                                                          |
+| 02.01.2025 | 🎆 no meeting                                                                                                                                                                                          |
+| 09.01.2025 | no meeting                                                                                                                                                                                             |
+| 16.01.2025 | slot 6                                                                                                                                                                                                 |
+| 23.01.2025 | slot 7                                                                                                                                                                                                 |
+| 30.01.2025 | buffer / probably no meeting                                                                                                                                                                           |
+| 06.02.2025 | buffer / probably no meeting                                                                                                                                                                           |
 
 1. [FTTransformer] Gorishniy et al. [Revisiting Deep Learning Models for Tabular Data](https://proceedings.neurips.cc/paper/2021/hash/9d86d83f925f2149e9edb0ac3b49229c-Abstract.html) (NeurIPS'22)
 2. [Why?] Grinsztajn et al. [Why do tree-based models still outperform deeplearning on typical tabular data?](https://proceedings.neurips.cc/paper_files/paper/2022/file/0378c7692da36807bdec87ab043cdadc-Supplemental-Datasets_and_Benchmarks.pdf) (NeurIPS’22)
