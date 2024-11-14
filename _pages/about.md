@@ -8,22 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I am an Early Career Research Group Leader [AutoML for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/research-groups/automl-for-science/) in the Cluster of 
+**Short Bio.** I am an Early Career Research Group Leader [AutoML for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/research-groups/automl-for-science/) in the Cluster of 
 Excellence [Machine Learning for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/) at the University of Tübingen.
 
-**Short Bio** 
-
-My research focuses on methods for *automated machine learning (AutoML)*, *hyperparameter optimization (HPO)*, and *efficient 
-benchmarking*. Motivated by the goal of further democratizing the application of machine learning for scientific researchers 
-and practitioners, I research how to improve and extend AutoML systems to leverage the full potential of ML for new applications.
+My research is on methods for *automated machine learning (AutoML)*, with a focus on *AutoML Systems*, *Hyperparameter 
+optimization*, and *Tabular Machine Learning*. 
+Motivated by the goal provide easy access to state-of-the-art ML, I research how to improve and extend AutoML 
+to leverage the full potential of ML for new applications in science. Specifically, I want to contribute to the  
+understanding and development of AutoML systems that automatically choose the best ML solution for a given task.
 
 Previously, I was part of the [ML Lab](https://ml.informatik.uni-freiburg.de/) at the University of Freiburg, where 
 I completed my Ph.D. under the supervision of [Frank Hutter](https://ml.informatik.uni-freiburg.de/profile/hutter/) 
 and [Marius Lindauer](https://www.ai.uni-hannover.de/de/institut/team/lindauer) (2022). I also co-developed several 
 open-source tools for HPO methods and AutoML systems and have been a member of the team winning three AutoML 
-competitions (2016, 2018, 2020). I am a junior head of the [Automl.org](automl.org) group, member of the [COSEAL](https://www.coseal.net/) group and a faculty member of [IMPRS-IS](https://imprs.is.mpg.de/). 
-Furthermore, I co-organized the AutoML workshop series at ICML in [2019](https://sites.google.com/view/automl2019icml/), [2020](https://sites.google.com/view/automl2020/home) 
-and [2021](https://sites.google.com/view/automl2021), served as a social chair (2022,2023) and as a program chair (2024) for the [AutoML Conference](www.automl.cc) and am co-leading the [Tübingen Women in Machine Learning](https://tuewiml.github.io/) group. 
+competitions (2016, 2018, 2020). I am a junior head of the [Automl.org](automl.org) group, 
+member of the [COSEAL](https://www.coseal.net/) group and a faculty member of [IMPRS-IS](https://imprs.is.mpg.de/).
+Furthermore, I co-organized the AutoML workshop series at ICML in [2019](https://sites.google.com/view/automl2019icml/), 
+[2020](https://sites.google.com/view/automl2020/home) and [2021](https://sites.google.com/view/automl2021), 
+served as a social chair (2022,2023) and as a program chair (2024) for the [AutoML Conference](www.automl.cc) and
+am co-leading the [Tübingen Women in Machine Learning](https://tuewiml.github.io/) group. 
 
 News
 ====
