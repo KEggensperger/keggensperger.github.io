@@ -57,7 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "KEggensperger"
+  username               :
+bluesky:
+  username               : &bluesky "keggensperger.bsky.social"
 facebook:
   username               :
   app_id                 :
