@@ -8,40 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-**Short Bio.** I am an Early Career Research Group Leader [AutoML for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/research-groups/automl-for-science/) in the Cluster of 
-Excellence [Machine Learning for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/) at the University of Tübingen.
+**Short Bio.** I am an Early Career Research Group Leader [AutoML for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/research-groups/automl-for-science/) in the Cluster of Excellence [Machine Learning for Science](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/home/) at the University of Tübingen.
 
-My research is on methods for *automated machine learning (AutoML)*, with a focus on *AutoML Systems*, *Hyperparameter 
-optimization*, and *Tabular Machine Learning*. 
-Motivated by the goal provide easy access to state-of-the-art ML, I research how to improve and extend AutoML 
-to leverage the full potential of ML for new applications in science. Specifically, I want to contribute to the  
-understanding and development of AutoML systems that automatically choose the best ML solution for a given task.
+My research is on methods for *automated machine learning (AutoML)*, with a focus on *AutoML Systems*, 
+*Hyperparameter optimization*, and *Tabular Machine Learning*. Motivated by the goal provide easy access to 
+state-of-the-art ML, I research how to improve and extend AutoML to leverage the full potential of ML for new 
+applications in science. Specifically, I aim to understand how to best develop AutoML methods to automatically 
+design, select and fit the best ML solution for a given task.
 
-Previously, I was part of the [ML Lab](https://ml.informatik.uni-freiburg.de/) at the University of Freiburg, where 
-I completed my Ph.D. under the supervision of [Frank Hutter](https://ml.informatik.uni-freiburg.de/profile/hutter/) 
-and [Marius Lindauer](https://www.ai.uni-hannover.de/de/institut/team/lindauer) (2022). I also co-developed several 
-open-source tools for HPO methods and AutoML systems and have been a member of the team winning three AutoML 
-competitions (2016, 2018, 2020). I am a junior head of the [Automl.org](automl.org) group, 
-member of the [COSEAL](https://www.coseal.net/) group and a faculty member of [IMPRS-IS](https://imprs.is.mpg.de/).
-Furthermore, I co-organized the AutoML workshop series at ICML in [2019](https://sites.google.com/view/automl2019icml/), 
-[2020](https://sites.google.com/view/automl2020/home) and [2021](https://sites.google.com/view/automl2021), 
-served as a social chair (2022,2023) and as a program chair (2024) for the [AutoML Conference](www.automl.cc) and
-am co-leading the [Tübingen Women in Machine Learning](https://tuewiml.github.io/) group. 
+Previously, I was part of the [ML Lab](https://ml.informatik.uni-freiburg.de/) at the University of Freiburg, where I completed my Ph.D. under the supervision of [Frank Hutter](https://ml.informatik.uni-freiburg.de/profile/hutter/) and [Marius Lindauer](https://www.ai.uni-hannover.de/de/institut/team/lindauer) (2022). I also co-developed several open-source tools for HPO methods and AutoML systems and have been a member of the team winning three AutoML competitions (2016, 2018, 2020). I am a junior head of the [Automl.org](automl.org) group, member of the [COSEAL](https://www.coseal.net/) group and a faculty member of [IMPRS-IS](https://imprs.is.mpg.de/). Furthermore, I co-organized the AutoML workshop series at ICML in [2019](https://sites.google.com/view/automl2019icml/), [2020](https://sites.google.com/view/automl2020/home) and [2021](https://sites.google.com/view/automl2021), served as a social chair (2022,2023) and as a program chair (2024) for the [AutoML Conference](www.automl.cc) and am co-leading the [Tübingen Women in Machine Learning](https://tuewiml.github.io/) group. 
 
 News
 ====
 
 <ul>
-  <li> Nov'24 · 🎨 I participated in the Kreativ-Hackathon "KI neu sehen" as part of the <a 
-href="https://sidays.com/">Science and 
-Innovation Days</a> organized by the RHET AI center and the 
-<a href="https://www.abk-stuttgart.de/">Staatliche Akademie der Bildenden Künste Stuttgart</a>. Read more <a 
-href="https://rhet.ai/2024/11/26/kreativ-hackathon-ki-neu-sehen/">here</a>.
-  <li> Oct'24 · 📝 Our paper <a href="https://openreview.net/forum?id=LFyQyV5HxQ">"Towards Localization via Data Embedding for 
-TabPFN"</a> will be presented at TRL@NeurIPS'24.</li>
-  <li> Oct'24 · 📮 The deadline for applying for PhD positions at <a href="https://imprs.is.mpg.de/">IMPRS-IS</a> is 
-on Nov 15th. Here is an <a href="https://keggensperger.github.io/files/2024_JobPosting.pdf"> example call for a 
-PhD position</a> or reach out to me in case of any questions! </li>
+  <li> Nov'24 · 🎨 I participated in the Kreativ-Hackathon "KI neu sehen" as part of the <a href="https://sidays.
+com/">Science and Innovation Days</a> organized by the RHET AI center and the <a href="https://www.abk-stuttgart.de/">Staatliche Akademie der Bildenden Künste Stuttgart</a>. Read more <a href="https://rhet.
+ai/2024/11/26/kreativ-hackathon-ki-neu-sehen/">here</a>. </li>
+  <li> Oct'24 · 📝 Our paper <a href="https://openreview.net/forum?id=LFyQyV5HxQ">"Towards Localization via Data 
+Embedding for TabPFN"</a> will be presented at TRL@NeurIPS'24. </li>
+  <li> Oct'24 · 📮 The deadline for applying for PhD positions at <a href="https://imprs.is.mpg.de/">IMPRS-IS</a> is on Nov 15th. Here is an <a href="https://keggensperger.github.io/files/2024_JobPosting.pdf"> example call for a PhD position</a> or reach out to me in case of any questions! </li>
   <li> Oct'24 · 📓 I will offer a seminar on "(Auto-)ML for tabular data" in the winter semester. See <a href="https://keggensperger.github.io/teaching/2024-winter-seminar">here</a>.</li>
   <li> Sep'24 · 🗨️ I will give an invited Talk at the <a href="https://www.meetup.com/paris-women-in-machine-learning-data-science/events/302432984/">"AutoML Conference X Paris WiMLDS"</a></li>
   <li> July'24 · 🗨️ I gave an invited talk at the "ML in Science Conference" in Tübingen on "Automated Machine Learning for Science" </li>
