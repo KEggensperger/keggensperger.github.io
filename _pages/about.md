@@ -32,7 +32,16 @@ News
 ====
 
 <ul>
-  <li> Oct'24 · 📮 The deadline for applying for PhD positions at <a href="https://imprs.is.mpg.de/">IMPRS-IS</a> is on **Nov 15th**. Here is an <a href="https://keggensperger.github.io/files/2024_JobPosting.pdf">example call for a PhD position</a> or reach out to me in case of any questions! </li>
+  <li> Nov'24 · 🎨 I participated in the Kreativ-Hackathon "KI neu sehen" as part of the <a 
+href="https://sidays.com/">Science and 
+Innovation Days</a> organized by the RHET AI center and the 
+<a href="https://www.abk-stuttgart.de/">Staatliche Akademie der Bildenden Künste Stuttgart</a>. Read more <a 
+href="https://rhet.ai/2024/11/26/kreativ-hackathon-ki-neu-sehen/">here</a>.
+  <li> Oct'24 · 📝 Our paper <a href="https://openreview.net/forum?id=LFyQyV5HxQ">"Towards Localization via Data Embedding for 
+TabPFN"</a> will be presented at TRL@NeurIPS'24.</li>
+  <li> Oct'24 · 📮 The deadline for applying for PhD positions at <a href="https://imprs.is.mpg.de/">IMPRS-IS</a> is 
+on Nov 15th. Here is an <a href="https://keggensperger.github.io/files/2024_JobPosting.pdf"> example call for a 
+PhD position</a> or reach out to me in case of any questions! </li>
   <li> Oct'24 · 📓 I will offer a seminar on "(Auto-)ML for tabular data" in the winter semester. See <a href="https://keggensperger.github.io/teaching/2024-winter-seminar">here</a>.</li>
   <li> Sep'24 · 🗨️ I will give an invited Talk at the <a href="https://www.meetup.com/paris-women-in-machine-learning-data-science/events/302432984/">"AutoML Conference X Paris WiMLDS"</a></li>
   <li> July'24 · 🗨️ I gave an invited talk at the "ML in Science Conference" in Tübingen on "Automated Machine Learning for Science" </li>
