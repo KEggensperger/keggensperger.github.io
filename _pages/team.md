@@ -57,7 +57,7 @@ author_profile: true
 ## Currrent MSc and Bsc Students
 
   * 2024 · Sotirios Voulgaris [MSc] : *Evaluating PFNs as Stacking Models*
-  * 2024 · (external) Robin Schulze-Clebow [MSc] : *Leveraging Large Language Models for Security Vulnerability Detection in Configuration Management Databases*
+  
 
 ## Former MSc and BSc Students
 
