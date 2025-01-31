@@ -57,16 +57,17 @@ author_profile: true
 ## Currrent MSc and Bsc Students
 
   * 2024 · Sotirios Voulgaris [MSc] : *Evaluating PFNs as Stacking Models*
+  * 2024 · Jan-Malte Giannikos [MSC] : *Exploring Adversarial Methods Against Tabular Models*
   * 2024 · (external) Robin Schulze-Clebow [MSc] : *Leveraging Large Language for Security Vulnerability Detection in Configuration Management Databases* 
 
 ## Former MSc and BSc Students
 
- * 2025 · (external) Christian Eberle [MSc] : *Using Counterfactual Explanations to Find Gut Bacteria Related to Colorectal Cancer*
+ * 2024/25 · (external) Christian Eberle [MSc] : *Using Counterfactual Explanations to Find Gut Bacteria Related to Colorectal Cancer*
  * 2024 · (external) Lennart Metz [MSc] : *Robust and Fast Transformer-based Models for Bio-medical Data*
  * 2024 · Magnus Hornstein [BSc]: *Stopping Criteria for Bayesian Optimization with Random Forests*
  * 2024 · Timothy Shinners [MSc]: *Prior-Data Fitted Networks Dan Do Mixed-Variable Bayesian Optimization*
  * 2024 · Samuel Wörz [MSc]: *Probabilistic Wind Power Forecasting with Automated Machine Learning Frameworks* (co-supervised with [Dr. Nicole Ludwig](https://www.mlsustainableenergy.com/de/))
- * 2024 · (external) Arne Cremer [MSc]: *Using GANs to interpolate between AUTOSAR graphs considering model validity*
+ * 2023/24 · (external) Arne Cremer [MSc]: *Using GANs to interpolate between AUTOSAR graphs considering model validity*
 
 --- 
 
