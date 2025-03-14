@@ -19,7 +19,7 @@ News
 ====
 
 <ul>
-  <li> March'25 · 📣 Registration is open for the <a href="https://automlschool.org">"5th AutoML School"</a> will take place in Tübingen, June 10th - 13th.</li> 
+  <li> March'25 · 📣 Registration is open for the <a href="https://automlschool.org">"5th AutoML School"</a>, which will take place in Tübingen, June 10th - 13th.</li> 
   <li> Nov'24 · 🎨 I participated in the Kreativ-Hackathon "KI neu sehen" as part of the <a href="https://sidays.com/">Science and Innovation Days</a> organized by the RHET AI center and the <a href="https://www.abk-stuttgart.de/">Staatliche Akademie der Bildenden Künste Stuttgart</a>. Read more <a href="https://rhet.ai/2024/11/26/kreativ-hackathon-ki-neu-sehen/">here</a>. </li>
   <li> Oct'24 · 📝 Our paper <a href="https://openreview.net/forum?id=LFyQyV5HxQ">"Towards Localization via Data Embedding for TabPFN"</a> got accepted <a href="https://table-representation-learning.github.io/">TRL@NeurIPS'24</a>. </li>
   <li> Oct'24 · 📮 The deadline for applying for PhD positions at <a href="https://imprs.is.mpg.de/">IMPRS-IS</a> is on Nov 15th. Here is an <a href="https://keggensperger.github.io/files/2024_JobPosting.pdf"> example call for a PhD position</a> or reach out to me in case of any questions! </li>
