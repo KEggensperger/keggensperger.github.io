@@ -19,8 +19,16 @@ News
 ====
 
 <ul>
-  <li> March'25 · 📣 Registration is open for the <a href="https://automlschool.org">"5th AutoML School"</a>, which will take place in Tübingen, June 10th - 13th.</li> 
-  <li> Nov'24 · 🎨 I participated in the Kreativ-Hackathon "KI neu sehen" as part of the <a href="https://sidays.com/">Science and Innovation Days</a> organized by the RHET AI center and the <a href="https://www.abk-stuttgart.de/">Staatliche Akademie der Bildenden Künste Stuttgart</a>. Read more <a href="https://rhet.ai/2024/11/26/kreativ-hackathon-ki-neu-sehen/">here</a>. </li>
+  <li> June'25 · 📝 Our paper <a href="https://openreview.net/forum?id=vLttpF8AOv&">"In-Context Learning of Soft Nearest Neighbor Classifiers for Intelligible Tabular Machine Learning"</a> got accepted <a href="https://table-representation-learning.github.io/">TRL@ACL'25</a>. See you in Vienna! </li>
+  <li> June'25 · 🙏 The 5th AutoML School is over. Thanks to all participants and speakers for this fantastic event and see you next year in Dortmund! We will upload videos shortly. </li>
+  <li> June'23 · 📣 I co-chair the non-archival content track for <a href="https://2025.automl.cc/">AutoML 2025</a> in New-York (together with <a href="https://www.amazon.science/author/nick-erickson">Nick Erickson</a>. We're looking forward to your (creative) submissions. Deadline June 27th. </li>
+  <li> March'25 · 📣 Registration is open for the <a href="https://automlschool.org">"5th AutoML School"</a>, which will take place in Tübingen, June 10th - 13th.</li>
+</ul>
+
+<details>
+	<summary>2024</summary>
+<ul>
+   <li> Nov'24 · 🎨 I participated in the Kreativ-Hackathon "KI neu sehen" as part of the <a href="https://sidays.com/">Science and Innovation Days</a> organized by the RHET AI center and the <a href="https://www.abk-stuttgart.de/">Staatliche Akademie der Bildenden Künste Stuttgart</a>. Read more <a href="https://rhet.ai/2024/11/26/kreativ-hackathon-ki-neu-sehen/">here</a>. </li>
   <li> Oct'24 · 📝 Our paper <a href="https://openreview.net/forum?id=LFyQyV5HxQ">"Towards Localization via Data Embedding for TabPFN"</a> got accepted <a href="https://table-representation-learning.github.io/">TRL@NeurIPS'24</a>. </li>
   <li> Oct'24 · 📮 The deadline for applying for PhD positions at <a href="https://imprs.is.mpg.de/">IMPRS-IS</a> is on Nov 15th. Here is an <a href="https://keggensperger.github.io/files/2024_JobPosting.pdf"> example call for a PhD position</a> or reach out to me in case of any questions! </li>
   <li> Oct'24 · 📓 I offer a seminar on "(Auto-)ML for tabular data" in the winter semester. See <a href="https://keggensperger.github.io/teaching/2024-winter-seminar">here</a>.</li>
@@ -28,14 +36,7 @@ News
   <li> July'24 · 🗨️ I gave an invited talk at the "ML in Science Conference" in Tübingen on "Automated Machine Learning for Science" </li>
   <li> June'24 · 👋 Welcome our new group member: Mykhailo Koshil! </li>  
   <li> May'24 · 📝 Our paper <a href="https://arxiv.org/abs/2405.02200">"Position: Why We Must Rethink Empirical Research in Machine Learning"</a> has been accepted at ICML'24.</li>
-  <li> Sep'23 · 🥳 I am thrilled to be a program chair for <a href="https://2024.automl.cc/">AutoML 2024</a> in Paris (together with <a href="https://www.cse.wustl.edu/~garnett/">Roman Garnett</a> and <a href="https://joaquinvanschoren.github.io">Joaquin Vanschoren</a>
-, and <a href="https://www.ai.uni-hannover.de/de/institut/team/lindauer/">Marius Lindauer</a> as the General Chair) </li>
-</ul>
-
-<details>
-	<summary>more entries</summary>
-<ul>
-  <li> May'24 · 🗨️ I gave an invited talk at <a href="https://www.wids-regensburg.de/">Women in Data Science Regensburg</a> on "AutoML: Streamlining Machine Learning".</li>
+<li> May'24 · 🗨️ I gave an invited talk at <a href="https://www.wids-regensburg.de/">Women in Data Science Regensburg</a> on "AutoML: Streamlining Machine Learning".</li>
   <li> Mar'24 · 📝 Our paper "Towards Bandit-based Optimization for Automated Machine Learning" has been accepted for oral presentation at <a href="https://pml4dc.github.io/iclr2024/">PML4LRS@ICLR'24</a>.</li>
   <li> Mar'24 · 📝 Our paper <a href="https://openreview.net/forum?id=ACLLU9nQ2E">"Towards quantifying the effect of dataset selection for benchmarking tabular machine learning approaches"</a> has been accepted at <a href="https://dmlr.ai/">DMLR@ICLR'24</a>.</li>
   <li> Feb'24 · 📝 Our paper <a href="https://jair.org/index.php/jair/article/view/14747">"Can Fairness be Automated? Guidelines and Opportunities for Fairness-aware AutoML"</a> has been published at JAIR.</li>
@@ -47,6 +48,8 @@ News
 	<summary>2023</summary>
 <ul>
   <li> 9th Nov'23 · 🗨️ Together with <a href="https://www.ai.uni-hannover.de/de/institut/team/lindauer/">Marius Lindauer</a> I gave a talk at <a href="https://www.m3-konferenz.de/veranstaltung-21316-se-0-hyperparameter-optimieren-mit-automl.html">MLOps'23</a>: "Hyperparameter Optimieren mit AutoML"</li>  
+  <li> Sep'23 · 🥳 I am thrilled to be a program chair for <a href="https://2024.automl.cc/">AutoML 2024</a> in Paris (together with <a href="https://www.cse.wustl.edu/~garnett/">Roman Garnett</a> and <a href="https://joaquinvanschoren.github.io">Joaquin Vanschoren</a>
+, and <a href="https://www.ai.uni-hannover.de/de/institut/team/lindauer/">Marius Lindauer</a> as the General Chair) </li>
   <li> 15th Sep'23 · 👋 Welcome my first group member: Amir Rezaei Balef! </li>
   <li> Sep'23 · 📓 I offered a seminar on "Automated Machine Learning and Hyperparameter Optimization" in the winter semester. Find all details <a href="https://keggensperger.github.io/teaching/2023-winter-seminar">here</a>.</li>
   <li> 12th-15th Sept'23 · 🥳 Together with <a href="https://www.slds.stat.uni-muenchen.de/people/feurer/">Matthias Feurer</a> I am organizing the social program for AutoML 2023! Find all details <a href="automl.cc">here</a>.</li>
