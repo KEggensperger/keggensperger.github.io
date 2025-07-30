@@ -19,8 +19,7 @@ News
 ====
 
 <ul>
-  <li> July'25 · 📝 Our paper "Posterior Sampling using Prior-Data Fitted Networks for Optimizing Complex AutoML Pipelines" got accepted as a poster at <a href="https://ecai2025.org">EWRL'25</a>. See you in Tübingen! </li>
-  <li> July'25 · 📝 Our paper "In-Context Decision Making for Optimizing Complex AutoML Pipelines" got accepted at <a href="https://ecai2025.org">ECAI'25</a>. See you in Bologna! </li>
+  <li> July'25 · 📝 Our paper "In-Context Decision Making for Optimizing Complex AutoML Pipelines" got accepted at <a href="https://ecai2025.org">ECAI'25</a>. We will present this work also at <a href="https://ewrl.wordpress.com/ewrl18-2025/">EWRL'25</a>. See you in Bologna and Tübingen! </li>
   <li> June'25 · 📝 Our paper <a href="https://openreview.net/forum?id=vLttpF8AOv&">"In-Context Learning of Soft Nearest Neighbor Classifiers for Intelligible Tabular Machine Learning"</a> got accepted as a poster (and oral) at <a href="https://table-representation-learning.github.io/">TRL@ACL'25</a>. See you in Vienna! </li>
   <li> June'25 · 🙏 The 5th AutoML School is over. Thanks to all participants and speakers for this fantastic event and see you next year in Dortmund! Videos can be found <a href="https://www.youtube.com/playlist?list=PLZ6xF9APwk986suFuGvOHLyYFhz-bnY9F">here</a>. </li>
   <li> June'23 · 📣 I co-chair the non-archival content track for <a href="https://2025.automl.cc/">AutoML 2025</a> in New-York (together with <a href="https://www.amazon.science/author/nick-erickson">Nick Erickson</a>. We're looking forward to your (creative) submissions. Deadline June 27th. </li>
