@@ -19,6 +19,7 @@ News
 ====
 
 <ul>
+  <li> October'25 · 🥳 Excited to join TU Dortmund and the <a href="https://lamarr-institute.org/">Lamarr Institute</a> as a professor. See the job posting <a href="https://keggensperger.github.io/files/2025_JobPosting_TUDortmund.pdf">here</a>. </li>
   <li> July'25 · 📝 Our paper "In-Context Decision Making for Optimizing Complex AutoML Pipelines" got accepted at <a href="https://ecai2025.org">ECAI'25</a>. We will present this work also at <a href="https://ewrl.wordpress.com/ewrl18-2025/">EWRL'25</a>. See you in Bologna and Tübingen! </li>
   <li> June'25 · 📝 Our paper <a href="https://openreview.net/forum?id=vLttpF8AOv&">"In-Context Learning of Soft Nearest Neighbor Classifiers for Intelligible Tabular Machine Learning"</a> got accepted as a poster (and oral) at <a href="https://table-representation-learning.github.io/">TRL@ACL'25</a>. See you in Vienna! </li>
   <li> June'25 · 🙏 The 5th AutoML School is over. Thanks to all participants and speakers for this fantastic event and see you next year in Dortmund! Videos can be found <a href="https://www.youtube.com/playlist?list=PLZ6xF9APwk986suFuGvOHLyYFhz-bnY9F">here</a>. </li>
@@ -70,4 +71,4 @@ Misc
 
 **Note:** For links to slides, tutorials and videos, please see [talks](https://keggensperger.github.io/talks/), [teaching](https://keggensperger.github.io/teaching/) and [Automl.org](Automl.org)
 
-**Want to work with me?** I recruit PhD students via [IMPRS-IS](https://imprs.is.mpg.de/) (Deadline 15th November 2024). Here is an [example call for a PhD position](https://keggensperger.github.io/files/2024_JobPosting.pdf) or reach out to me in case of any questions! 
+**Want to work with me?** See this [call for multiple PhD positions](https://keggensperger.github.io/files/2025_JobPosting_TUDortmund.pdf) for the new lab in Dortmund or reach out to me in case of any questions! 
