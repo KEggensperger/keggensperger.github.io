@@ -55,7 +55,7 @@ ML methods build to excel on this data modality.
 | 17.12.2025 | #3              |    
 | 24.12.2025 | 🌲 no meeting    |   
 | 31.12.2025 | 🎆  no meeting     | 
-| 07.1.2026  | 🎆 no meeting       |
+| 07.1.2026  | ⛄ no meeting       |
 | 14.01.2026 | #4	               |  
 | 21.01.2026 | #5                  |
 | 28.01.2026 | buffer / no meeting |
