@@ -18,7 +18,7 @@ Tabular data is everywhere and often at the core of data science tasks, from hea
 
 In this seminar, we will explore the evolving landscape of ML for tabular data, with a special focus on predictive tasks and the rise of foundation models. We will read and discuss recent research papers and critically examine approaches. As I am new to the department, I am especially excited to use this seminar to dive into an active research area and get to know many of you.
 
-*Interested in a teaser?* Check out this position paper on why we need more tabular foundation models: https://proceedings.mlr.press/v235/van-breugel24a.html
+*Interested in a teaser?* Check out this [position paper on why we need more tabular foundation models](https://proceedings.mlr.press/v235/van-breugel24a.html)
 
 | Course Title  | Tabular Machine Learning                                                           |
 |---------------|------------------------------------------------------------------------------------|
