@@ -22,6 +22,32 @@ In this seminar, we will explore the evolving landscape of ML for tabular data, 
 
 *Interested in a teaser?* Check out this position paper on why we need more tabular foundation models: https://proceedings.mlr.press/v235/van-breugel24a.html
 
+Topics
+---
+The seminar focuses on understanding the challenges of learning from tabular representations. We will discuss research 
+papers trying to understand what makes tabular data a challenging data modality for some model classes and state-of-the-art
+ML methods build to excel on this data modality. 
+
+| Date       | Content             |
+|------------|---------------------|
+| 15.10.2025 | intro I             |
+| 22.10.2025 | no meeting          |
+| 29.10.2025 | no meeting          |
+| 05.11.2025 | no meeting |
+| 12.11.2025 | no meeting |         
+| 19.11.2025 | intro II     |       
+| 26.11.2025 | #1          |        
+| 03.12.2025 | no meeting    |      
+| 10.12.2025 | #2             |     
+| 17.12.2025 | #3              |    
+| 24.12.2025 | 🌲 no meeting    |   
+| 31.12.2025 | 🎆  no meeting     | 
+| 07.1.2026  | 🎆 no meeting       |
+| 14.01.2026 | #4	               |  
+| 21.01.2026 | #5                  |
+| 28.01.2026 | buffer / no meeting |
+| 04.02.2026 | buffer / no meeting |
+
 
 How the seminar will look like?
 ---
