@@ -55,10 +55,11 @@ author_profile: true
 </div>
 
 ## Currrent MSc and Bsc Students
- * 2025 · Finn Fassbender [MSc] : *Comparing Foundation Model Approaches for Clinical Risk Assessment*
  * 2025 · (external) Christopher Kolberg [MSc] : *Multi-Modal Data Extensions for Tabular Foundation Models in Biomedicine*
+ * 2025 · (external) Swagatam Haldar [MSc] : *AutoML for Simulation-based Inference (SBI)*
 
 ## Former MSc and BSc Students
+ * 2025 · Finn Fassbender [MSc] : *Comparing Foundation Model Approaches for Clinical Risk Assessment*
  * 2024 · Sotirios Voulgaris [MSc] : *Evaluating PFNs as Stacking Models*
  * 2024 · Jan-Malte Giannikos [MSC] : *Exploring Adversarial Methods Against Tabular Models*
  * 2024 · (external) Robin Schulze-Clebow [MSc] : *Leveraging Large Language for Security Vulnerability Detection in Configuration Management Databases*
