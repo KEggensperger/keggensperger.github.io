@@ -4,6 +4,6 @@ author: "*Amir Balef*, Claire Vernade, *Katharina Eggensperger*"
 collection: publications
 permalink: /publication/2025-NeurIPS-MaxUCB
 date: 2025-10-05
-venue: "Neural Information Processing Systems"
+venue: "Neural Information Processing Systems (NeurIPS'25)"
 arxiv: 'https://arxiv.org/abs/2505.05226?'
 ---

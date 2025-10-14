@@ -4,5 +4,7 @@ author: "*Amir Balef*, *Katharina Eggensperger*"
 collection: publications
 permalink: /publication/2025-ECAI-ICLBandits
 date: 2025-07-05
-venue: "European Conference on Artificial Intelligence"
+venue: "European Conference on Artificial Intelligence (ECAI'25)"
+paperurl: 'https://openreview.net/forum?id=mVBRR4fa0h'
+excerpt: 'Also presented at EWLR 2025'
 ---
