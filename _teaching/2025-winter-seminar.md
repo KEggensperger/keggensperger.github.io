@@ -75,7 +75,7 @@ Kim at al. [Table Foundation Models: on knowledge pre-training for tabular learn
 
 ### Session #3
 
-  * [LLMs] Hegselman et al. [TabLLM: Few-shot Classification of Tabular Data with Large Language Models](https://proceedings.mlr.press/v206/hegselmann23a.html) (AISTATS'23) and Gardner at al. [Large Scale Transfer Learning for Tabular Data via Language Modeling Better by Default: Strong Pre-Tuned MLPs and Boosted Trees on Tabular Data](https://proceedings.neurips.cc/paper_files/paper/2024/hash/4fd5cfd2e31bebbccfa5ffa354c04bdc-Abstract-Conference.html) (NeurIPS'24)
+  * [LLMs] Hegselman et al. [TabLLM: Few-shot Classification of Tabular Data with Large Language Models](https://proceedings.mlr.press/v206/hegselmann23a.html) (AISTATS'23) and Gardner at al. [Large Scale Transfer Learning for Tabular Data via Language Modeling](https://proceedings.neurips.cc/paper_files/paper/2024/hash/4fd5cfd2e31bebbccfa5ffa354c04bdc-Abstract-Conference.html) (NeurIPS'24)
   * [Agents] Guo et al. [DS-Agent: Automated Data Science by Empowering Large Language Models with Case-Based Reasoning](https://dl.acm.org/doi/10.5555/3692070.3692738) (ICML'24) and Nam et al. [MLE-STAR: Machine Learning Engineering Agent via Search and Targeted Refinement](https://neurips.cc/virtual/2025/loc/san-diego/poster/115409) (NeurIPS'25)
 
 How the seminar will look like?
