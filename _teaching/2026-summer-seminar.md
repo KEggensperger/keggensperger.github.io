@@ -35,7 +35,7 @@ Topics
 |------------|--------------------|
 | 08.04.2026 | intro I            |
 | 15.04.2026 | intro II           |
-| ...        | sessions           |
+| tba        | sessions           |
 | 22.04.2026 | final presentation |
 
 Stay tuned while we compile a list of papers.
