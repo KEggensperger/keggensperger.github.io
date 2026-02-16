@@ -55,10 +55,11 @@ author_profile: true
 </div>
 
 ## Currrent MSc and Bsc Students
- * 2025 · (external) Christopher Kolberg [MSc] : *Multi-Modal Data Extensions for Tabular Foundation Models in Biomedicine*
- * 2025 · (external) Swagatam Haldar [MSc] : *AutoML for Simulation-based Inference (SBI)*
+ * 2026 · Friedrich Romberg [BSc] : *Continued Pre-Training of TabPFN for time-series data*
 
 ## Former MSc and BSc Students
+ * 2025 · (external) Christopher Kolberg [MSc] : *Multi-Modal Data Extensions for Tabular Foundation Models in Biomedicine*
+ * 2025 · (external) Swagatam Haldar [MSc] : *AutoML for Simulation-based Inference (SBI)*
  * 2025 · Finn Fassbender [MSc] : *Comparing Foundation Model Approaches for Clinical Risk Assessment*
  * 2024 · Sotirios Voulgaris [MSc] : *Evaluating PFNs as Stacking Models*
  * 2024 · Jan-Malte Giannikos [MSC] : *Exploring Adversarial Methods Against Tabular Models*

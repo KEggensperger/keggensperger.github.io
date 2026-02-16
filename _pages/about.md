@@ -17,6 +17,7 @@ News
 ====
 
 <ul>
+  <li> Feb'26 · 📓 I will offer a seminar on <a href="https://keggensperger.github.io/teaching/2026-summer-seminar">Adapting and Fine-Tuning Foundation Models</a>.</li>
   <li> Dec'25 · 👋 Meet us at NeurIPS, EurIPS and the ELLIS Unconference: <a href="https://arxiv.org/abs/2505.05226?">Put CASH on Bandits: A Max K-Armed Problem for Automated Machine Learning</a> at NeurIPs, "AutoML for Simulation-based Inference" at <a href="https://sites.google.com/view/amortizedprobml/">Amortized ProbML</a>, "TabPFN-Wide: Continued Pre-Training for Extreme Feature Counts" at <a href="https://sites.google.com/view/eurips25-ai-td/home">AI for Tabular Data</a> and "Towards Understanding Layer Contributions in Tabular In-Context Learning Models" at <a href="https://sites.google.com/view/eurips25-ai-td/home">AI for Tabular Data</a>.</li>
   <li> Oct'25 · 📓 I offer my first seminar at TU Dortmund on "Tabular Machine Learning". See <a href="https://keggensperger.github.io/teaching/2025-winter-seminar">here</a>.</li>
   <li> Oct'25 · 📝 Our paper <a href="https://arxiv.org/abs/2505.05226?">"Put CASH on Bandits: A Max K-Armed Problem for Automated Machine Learning"</a> got accepted at <a href="https://neurips.cc/">NeurIPS'25</a>. We will present this work in San Diego and Kopenhagen.</li>
