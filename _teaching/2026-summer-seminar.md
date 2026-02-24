@@ -9,21 +9,21 @@ date: 2026-02-16
 location: "Dortmund"
 ---
 
-Foundation models are pretrained once on broad and heterogeneous data distributions, however, real-world deployment typically requires reliable performance in narrow, specialized domains. This seminar will discuss diverse aspects of the following question: **How do we specialize foundation models to a target domain under computational and data constraints?**
+Foundation models are pretrained once on broad and heterogeneous data distributions; however, real-world deployment typically requires reliable performance in narrow, specialized domains. This seminar will discuss fundamental and recent approaches to address the following question: **How do we specialize foundation models to a target domain under computational and data constraints?**
 
-To address this question, we will read foundational and state-of-the-art papers on how to systematically adapt and fine-tune large models through weight updates, prompt engineering or context augmentation.
+To explore this question, we will read and discuss basic and state-of-the-art methods on how to systematically adapt and fine-tune large models through parameter-efficient fine-tuning, prompt engineering, test-time adaptation, context augmentation and many more.
 
 
-| Course Title  | Tabular Machine Learning                                                            |
-|---------------|-------------------------------------------------------------------------------------|
-| Course ID     | INF-MSc-102                                                                         |
-| Registration  | drop me an email                                                                    |
-| ECTS          | 3                                                                                   |
-| Time          | [tentative] Wednesdays, 10:15-11:45                                                 |
-| Language      | english                                                                             |
-| #participants | max 10                                                                              |
-| Location      | in-person [Jv25](https://maps.app.goo.gl/pa43gwcLJApRC56J9); seminar room 4th floor |
-| organized by  | Katharina Eggensperger w/ Amir Rezaei Balef, Mykhailo Koshil                        |
+| Course Title  | Tabular Machine Learning                                                             |
+|---------------|--------------------------------------------------------------------------------------|
+| Course ID     | INF-MSc-102                                                                          |
+| Registration  | drop me an email                                                                     |
+| ECTS          | 3                                                                                    |
+| Time          | [tentative] Wednesdays, 10:15-11:45                                                  |
+| Language      | english                                                                              |
+| #participants | max 10                                                                               |
+| Location      | in-person [JvF25](https://maps.app.goo.gl/pa43gwcLJApRC56J9); seminar room 4th floor |
+| organized by  | Katharina Eggensperger w/ Amir Rezaei Balef, Mykhailo Koshil                         |
 
 Requirements
 ---
