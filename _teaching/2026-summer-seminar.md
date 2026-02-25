@@ -3,7 +3,7 @@ layout: archive
 title: "Seminar: Adaptation and Fine-Tuning of Foundation Models"
 collection: teaching
 type: "Seminar"
-permalink: /teaching/2025-winter-seminar
+permalink: /teaching/2026-winter-seminar
 venue: "TU Dortmund"
 date: 2026-02-16
 location: "Dortmund"
