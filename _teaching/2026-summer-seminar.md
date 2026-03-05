@@ -32,11 +32,11 @@ Familiarity with foundations of deep learning, including transformer architectur
 
 Topics
 ---
-| Date | Content            |
-|-|--------------------|
-| 22.04.2026 | intro I            |
-| 29.04.2026 | intro II           |
-| tba | sessions           |
+| Date          | Content            |
+|---------------|--------------------|
+| 22.04.2026    | intro I            |
+| 29.04.2026    | intro II           |
+| tba           | sessions           |
 
 A non-complete paper pool for the seminar.
 
