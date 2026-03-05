@@ -15,11 +15,11 @@ To explore this question, we will read and discuss basic and state-of-the-art me
 
 For an overview, see this paper: Zhang et al. [Parameter-Efficient Fine-Tuning for Foundation Models](https://arxiv.org/abs/2501.13787) (arxiv’25)
 
-| Course Title  | TAdaptation and Fine-Tuning of Foundation Models                                                             |
+| Course Title  | TAdaptation and Fine-Tuning of Foundation Models                                     |
 |---------------|--------------------------------------------------------------------------------------|
 | Course ID     | INF-MSc-102                                                                          |
 | Registration  | drop me an email                                                                     |
-| ECTS          | 3                                                                                    |
+| ECTS          | 4                                                                                    |
 | Time          | [tentative] Wednesdays, 10:15-11:45                                                  |
 | Language      | english                                                                              |
 | #participants | max 10                                                                               |

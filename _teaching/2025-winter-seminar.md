@@ -20,16 +20,16 @@ In this seminar, we will explore the evolving landscape of ML for tabular data, 
 
 *Interested in a teaser?* Check out this [position paper on why we need more tabular foundation models](https://proceedings.mlr.press/v235/van-breugel24a.html)
 
-| Course Title  | Tabular Machine Learning                                                           |
-|---------------|------------------------------------------------------------------------------------|
-| Course ID     | INF-MSc-102                                                                        |
-| Registration  | drop me an email                                                                   |
-| ECTS          | 3                                                                                  |
-| Time          | Wednesdays, 10:15-11:45                                                            |
-| Language      | english                                                                            |
-| #participants | max 10                                                                             |
+| Course Title  | Tabular Machine Learning                                                            |
+|---------------|-------------------------------------------------------------------------------------|
+| Course ID     | INF-MSc-102                                                                         |
+| Registration  | drop me an email                                                                    |
+| ECTS          | 4                                                                                   |
+| Time          | Wednesdays, 10:15-11:45                                                             |
+| Language      | english                                                                             |
+| #participants | max 10                                                                              |
 | Location      | in-person [Jv25](https://maps.app.goo.gl/pa43gwcLJApRC56J9); seminar room 4th floor |
-| organized by  | Katharina Eggensperger w/ Amir Rezaei Balef, Mykhailo Koshil                       |
+| organized by  | Katharina Eggensperger w/ Amir Rezaei Balef, Mykhailo Koshil                        |
 
 Requirements
 ---
