@@ -74,6 +74,5 @@ author_profile: true
 --- 
 
 **Want to work with me?**
-  * For PhD Students: I recruit PhD students via [IMPRS-IS](https://imprs.is.mpg.de/) (Deadline mid-November each year). Please reach out to me for more details.
-  * For MSc/BSc thesis: Please do reach out to me. Don't forget to mention your interests and adding list of AI-related courses you have taken.
+  * For MSc/BSc thesis: Please do reach out to me. Don't forget to mention your interests and adding list of AI-related courses you have taken. See also this [list of example topics](https://keggensperger.github.io/files/2026_Student_Presentations.pdf).
 
