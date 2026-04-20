@@ -72,6 +72,7 @@ News
 </details>
 
 <ul>
+ <li> Oct'25 · 🥳 Excited to join <a href="https://www.tu-dortmund.de/">TU Dortmund</a> University and the <a href="https://lamarr-institute.org/">Lamarr Institute</a> as a professor for ML and AI!</li>
  <li> Jan'23 · 🥳 I am very excited to start my own <i>Early Career Research Group</i> for <a href="https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/research-groups/automl-for-science/">AutoML for Science</a> at the Cluster of Excellence "ML for Science" at the University of Tübingen! </li>
 </ul>
 

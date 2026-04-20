@@ -32,11 +32,23 @@ Familiarity with foundations of deep learning, including transformer architectur
 
 Topics
 ---
-| Date          | Content            |
-|---------------|--------------------|
-| 22.04.2026    | intro I            |
-| 29.04.2026    | intro II           |
-| tba           | sessions           |
+| Date          | Content    |
+|---------------|------------|
+| 22.04.2026    | intro I    |
+| 29.04.2026    | no meeting |
+| 06.05.2026    | no meeting |
+| 13.05.2026    | intro II   |
+| 20.05.2026   | no meeting |
+| 27.05.2026   | #1 PEFT I  |
+| 03.06.2026   | #2 PEFT II |
+| 10.06.2026   | #3 Prompt Engineering I |
+| 17.06.2026   | no meeting |
+| 24.06.2026   | #4 Prompt Engineering II |
+| 01.07.2026   | #5 Test-Time Adaptiation |
+| 08.07.2026   | no meeting |
+| 15.07.2026   | feedback for your poster |
+| 22.07.2026   | poster session |
+
 
 A non-complete paper pool for the seminar.
 
@@ -55,17 +67,10 @@ A non-complete paper pool for the seminar.
   * Li et al. [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://aclanthology.org/2021.acl-long.353/) (ACL’21)
   * Guo et al. [Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers](https://openreview.net/forum?id=ZG3RaNIsO8) (ICLR’24)
 
-**Reinforcement Learning with Human Feedback**
-
-  * Ouyang et al. [Training language models to follow instructions with human feedback](https://dl.acm.org/doi/10.5555/3600270.3602281) (NeurIPS’22)
-
 **Test-Time Adaptation**
 
   * Lewis et al. [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) (NeurIPS’20)
   * Wei et al. [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://openreview.net/forum?id=_VjQlMeSB_J) (NeurIPS’22)
-
-
-
 
 How the seminar will look like?
 ---
