@@ -7,24 +7,12 @@ author_profile: true
 
 ## Current Team Members
 
-<div>
-{% assign number_printed = 0 %}
+<div style="display: flex; flex-wrap: wrap;">
 {% for member in site.data.members %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<!-- Start a new row for every two members -->
-<div class="row">
-{% endif %}
-
-<!-- Set each member to take up half of the row -->
-<div class="col-sm-6">
+<div style="width: 50%; min-width: 200px; padding: 10px; box-sizing: border-box;">
 <img src="{{ site.url }}{{ site.baseurl }}/images/profile_pictures/{{ member.avatar }}" width="50%" style="max-width:200px"/>
-</div>
-
-<div class="social-icons">
-<h3>{{ member.name }}</h3>
+<div class="social-icons" style="margin-top: 6px;">
+<h3 style="margin-top: 0;">{{ member.name }}</h3>
 <i>{{ member.info }}<br></i>
 
 {% if member.website %}<a href="{{ member.website }}" target="_blank"><i class="fas fa-fw fa-home"></i></a> {% endif %}
@@ -34,24 +22,8 @@ author_profile: true
 {% if member.linkedin %} <a href="{{ member.linkedin }}" target="_blank"><i class="fab fa-fw fa-linkedin"></i></a> {% endif %}
 
 </div>
-<!-- </div> -->
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-<!-- Close the row after two members -->
 </div>
-{% endif %}
-
 {% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 1 %}
-<!-- Close any open row if there's an odd number of members -->
-</div>
-{% endif %}
-
 </div>
 
 ## Currrent MSc and Bsc Students
