@@ -17,7 +17,8 @@ News
 ====
 
 <ul>
-  <li> Apr'26 · 📣 Application is open for the 6th edition of our <a href="https://automlschool.org">"AutoML School"</a>. This edition will take place at TU Dortmund, July 27th-31st, with Matthias Feurer being the main organizer. Deadline: April 15th 2026</li>
+  <li> May'26 · 👋 Welcome our new group member: Hendrik Weißenfels! </li>
+  <li> Apr'26 · 📣 Application is open for the 6th edition of our <a href="https://automlschool.org">"AutoML School"</a>. This edition will take place at TU Dortmund, July 27th-31st, with Matthias Feurer being the main local organizer. Deadline: April 15th 2026</li>
   <li> Feb'26 · 📓 I will offer a seminar on <a href="https://keggensperger.github.io/teaching/2026-summer-seminar">Adapting and Fine-Tuning Foundation Models</a>.</li>
   <li> Dec'25 · 👋 Meet us at NeurIPS, EurIPS and the ELLIS Unconference: <a href="https://arxiv.org/abs/2505.05226?">Put CASH on Bandits: A Max K-Armed Problem for Automated Machine Learning</a> at NeurIPs, "AutoML for Simulation-based Inference" at <a href="https://sites.google.com/view/amortizedprobml/">Amortized ProbML</a>, "TabPFN-Wide: Continued Pre-Training for Extreme Feature Counts" at <a href="https://sites.google.com/view/eurips25-ai-td/home">AI for Tabular Data</a> and "Towards Understanding Layer Contributions in Tabular In-Context Learning Models" at <a href="https://sites.google.com/view/eurips25-ai-td/home">AI for Tabular Data</a>.</li>
 </ul>
@@ -73,7 +74,7 @@ News
 
 <ul>
  <li> Oct'25 · 🥳 Excited to join <a href="https://www.tu-dortmund.de/">TU Dortmund</a> University and the <a href="https://lamarr-institute.org/">Lamarr Institute</a> as a professor for ML and AI!</li>
- <li> Jan'23 · 🥳 I am very excited to start my own <i>Early Career Research Group</i> for <a href="https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/research-groups/automl-for-science/">AutoML for Science</a> at the Cluster of Excellence "ML for Science" at the University of Tübingen! </li>
+ <li> Jan'23 · 🥳 Excited to start my own <i>Early Career Research Group</i> for <a href="https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/research-groups/automl-for-science/">AutoML for Science</a> at the Cluster of Excellence "ML for Science" at the University of Tübingen! </li>
 </ul>
 
 Misc
