@@ -54,23 +54,22 @@ We will read the following papers:
 
 **Parameter-Efficient Fine-Tuning**
 
-  * Houlsby et al. [Parameter-Efficient Transfer Learning for NLP](https://proceedings.mlr.press/v97/houlsby19a.html) (NeurIPS 2025)
-  * Guo at al. [Parameter-Efficient Transfer Learning with Diff Pruning](https://aclanthology.org/2021.acl-long.378.pdf) (ACL 2021)
-  * Zhao et al. [Tuning LayerNorm in Attention: Towards Efficient Multi-Modal LLM Finetuning](https://openreview.net/forum?id=YR3ETaElNK) (ICLR 2024)
-  * Hu at al. [LoRA: Low-Rank Adaptation of Large Language Model](https://openreview.net/forum?id=nZeVKeeFYf9) (ICLR 2022)
-  * Mitchell et al. [Fast Model Editing at Scale](https://openreview.net/forum?id=0DcZxeWfOPt) (ICLR 2022)
+  * #1 Houlsby et al. [Parameter-Efficient Transfer Learning for NLP](https://proceedings.mlr.press/v97/houlsby19a.html) (NeurIPS 2025)
+  * #1 Guo at al. [Parameter-Efficient Transfer Learning with Diff Pruning](https://aclanthology.org/2021.acl-long.378.pdf) (ACL 2021)
+  * #2 Hu at al. [LoRA: Low-Rank Adaptation of Large Language Model](https://openreview.net/forum?id=nZeVKeeFYf9) (ICLR 2022)
+  * #2 Mitchell et al. [Fast Model Editing at Scale](https://openreview.net/forum?id=0DcZxeWfOPt) (ICLR 2022)
 
 **Prompt Engineering**
 
-  * Chen et al. [Auto-prompt: Eliciting knowledge from language models with automatically generated prompts](https://aclanthology.org/2020.emnlp-main.346.pdf) (EMNLP 2020)
-  * Lester et al. [The Power of Scale for Parameter-Efficient Prompt Tuning](https://aclanthology.org/2021.emnlp-main.243/) (ACL 2020)
-  * Li et al. [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://aclanthology.org/2021.acl-long.353/) (ACL 2021)
-  * Guo et al. [Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers](https://openreview.net/forum?id=ZG3RaNIsO8) (ICLR 2024)
+  * #3 Chen et al. [Auto-prompt: Eliciting knowledge from language models with automatically generated prompts](https://aclanthology.org/2020.emnlp-main.346.pdf) (EMNLP 2020)
+  * #3 Lester et al. [The Power of Scale for Parameter-Efficient Prompt Tuning](https://aclanthology.org/2021.emnlp-main.243/) (ACL 2020)
+  * #4 Li et al. [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://aclanthology.org/2021.acl-long.353/) (ACL 2021)
+  * #4 Guo et al. [Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers](https://openreview.net/forum?id=ZG3RaNIsO8) (ICLR 2024)
 
 **Test-Time Adaptation**
 
-  * Lewis et al. [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) (NeurIPS 2020)
-  * Wei et al. [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://openreview.net/forum?id=_VjQlMeSB_J) (NeurIPS 2022)
+  * #5 Lewis et al. [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401) (NeurIPS 2020)
+  * #5 Wei et al. [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://openreview.net/forum?id=_VjQlMeSB_J) (NeurIPS 2022)
 
 How the seminar will look like?
 ---
