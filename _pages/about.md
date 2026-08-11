@@ -17,7 +17,8 @@ News
 ====
 
 <ul>
-  <li> July'26 · 👋 Meet us at ICML. We're presenting <a href="https://openreview.net/forum?id=IxpVGcg39J">Is One Layer Enough? Understanding Inference Dynamics in Tabular Foundation Models</a> at the main track and the <a href="mechinterpworkshop.com/">MechInterpret Workshop</a>. Additionally, we present <a href="https://openreview.net/pdf?id=9nCMtYGxQt">Do Tabular Foundation Models Learn Rules or Memorize Exemplars?</a> at the <a href="https://icml-structured-fm-workshop.github.io/">FMSD Workshop</a>, where I will also give a talk. See you in Seoul! </li>
+   <li> July'26 · 👋 Meet us at ICML. We're presenting <a href="https://openreview.net/forum?id=IxpVGcg39J">Is One Layer Enough? Understanding Inference Dynamics in Tabular Foundation Models</a> at the main track and the <a href="mechinterpworkshop.com/">MechInterpret Workshop</a>. Additionally, we present <a href="https://openreview.net/pdf?id=9nCMtYGxQt">Do Tabular Foundation Models Learn Rules or Memorize Exemplars?</a> at the <a href="https://icml-structured-fm-workshop.github.io/">FMSD Workshop</a>, where I will also give a talk. See you in Seoul! </li>
+  <li> June'26 · 📝 Our paper "TACTICL: Task-Aware Compression of Tabular ICL Models" got accepted at the <a href="https://automl.cc">International Conference on Automated Machine Learning</a>. Looking forward to see you in Ljubljana! 
   <li> May'26 · 👋 Welcome our new group member: Hendrik Weißenfels! </li>
   <li> Apr'26 · 📣 Application is open for the 6th edition of our <a href="https://automlschool.org">"AutoML School"</a>. This edition will take place at TU Dortmund, July 27th-31st, with Matthias Feurer being the main local organizer. Deadline: April 15th 2026</li>
   <li> Feb'26 · 📓 I will offer a seminar on <a href="https://keggensperger.github.io/teaching/2026-summer-seminar">Adapting and Fine-Tuning Foundation Models</a>.</li>
