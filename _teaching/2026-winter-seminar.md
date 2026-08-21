@@ -24,16 +24,16 @@ Some more material for the curious reader:
   * [Transformer Circuits Thread](https://transformer-circuits.pub/) - a blog by Anthropic
   * [Neuronpedia](https://www.neuronpedia.org/) - an interactive website to explore AI models
 
-| Course Title  | Mechanistic Interpretability                                                           |
-|---------------|----------------------------------------------------------------------------------------|
-| Course ID     | INF-MSc-102                                                                            |
-| Registration  | drop me an email                                                                       |
-| ECTS          | 4                                                                                      |
-| Time          | [tentative] Thursday, 10:15-11:45                                                      |
-| Language      | english                                                                                |
-| #participants | max 10                                                                                 |
+| Course Title  | Mechanistic Interpretability                                                         |
+|---------------|--------------------------------------------------------------------------------------|
+| Course ID     | INF-MSc-102                                                                          |
+| Registration  | per LSF                                                                              |
+| ECTS          | 4                                                                                    |
+| Time          | [tentative] Thursday, 10:15-11:45                                                    |
+| Language      | english                                                                              |
+| #participants | max 10                                                                               |
 | Location      | in-person [JvF25](https://maps.app.goo.gl/pa43gwcLJApRC56J9); seminar room 3rd floor |
-| organized by  | Amir Rezaei Balef, Mykhailo Koshil, Katharina Eggensperger                             |
+| organized by  | Amir Rezaei Balef, Mykhailo Koshil, Katharina Eggensperger                           |
 
 Requirements
 ---
