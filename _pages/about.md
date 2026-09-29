@@ -17,6 +17,7 @@ News
 ====
 
 <ul>
+    <li> Sep'26 · 👋 Meet us at AutoML. We're presenting <a href="https://openreview.net/forum?id=IgpWPDN8lP">TACTICL: Task-Aware Compression of Tabular ICL Models</a>, accepted at the main track. </li>
      <li> Feb'26 · 📓 I will offer a MSc seminar on <a href="https://keggensperger.github.io/teaching/2026-summer-seminar">Mechanistic Interpretability</a> and a BSc Fachproject on "Empirical Machine Learning"</li>
     <li> July'26 · 👋 Meet us at ICML. We're presenting <a href="https://openreview.net/forum?id=IxpVGcg39J">Is One Layer Enough? Understanding Inference Dynamics in Tabular Foundation Models</a> at the main track and the <a href="mechinterpworkshop.com/">MechInterpret Workshop</a>. Additionally, we present <a href="https://openreview.net/pdf?id=9nCMtYGxQt">Do Tabular Foundation Models Learn Rules or Memorize Exemplars?</a> at the <a href="https://icml-structured-fm-workshop.github.io/">FMSD Workshop</a>, where I will also give a talk. See you in Seoul! </li>
   <li> June'26 · 📝 Our paper "TACTICL: Task-Aware Compression of Tabular ICL Models" got accepted at the <a href="https://automl.cc">International Conference on Automated Machine Learning</a>. Looking forward to see you in Ljubljana! 
