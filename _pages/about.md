@@ -17,13 +17,15 @@ News
 ====
 
 <ul>
-    <li> Sep'26 · 👋 Meet us at AutoML. We're presenting <a href="https://openreview.net/forum?id=IgpWPDN8lP">TACTICL: Task-Aware Compression of Tabular ICL Models</a>, accepted at the main track. </li>
-     <li> Feb'26 · 📓 I will offer a MSc seminar on <a href="https://keggensperger.github.io/teaching/2026-summer-seminar">Mechanistic Interpretability</a> and a BSc Fachproject on "Empirical Machine Learning"</li>
+<li> Oct'26 · 👋 Meet us at the inaugural ELLIS NRW event in Bonn/Siegburg. </li>    
+<li> Sep'26 · 👋 Meet us at AutoML. We're presenting <a href="https://openreview.net/forum?id=IgpWPDN8lP">TACTICL: Task-Aware Compression of Tabular ICL Models</a>, accepted at the main track. </li>
+     <li> Feb'26 · 📓 I will offer a MSc seminar on <a href="https://keggensperger.github.io/teaching/2026-summer-seminar">Mechanistic Interpretability</a> and a BSc Fachprojekt on "Empirical Machine Learning"</li>
     <li> July'26 · 👋 Meet us at ICML. We're presenting <a href="https://openreview.net/forum?id=IxpVGcg39J">Is One Layer Enough? Understanding Inference Dynamics in Tabular Foundation Models</a> at the main track and the <a href="mechinterpworkshop.com/">MechInterpret Workshop</a>. Additionally, we present <a href="https://openreview.net/pdf?id=9nCMtYGxQt">Do Tabular Foundation Models Learn Rules or Memorize Exemplars?</a> at the <a href="https://icml-structured-fm-workshop.github.io/">FMSD Workshop</a>, where I will also give a talk. See you in Seoul! </li>
-  <li> June'26 · 📝 Our paper "TACTICL: Task-Aware Compression of Tabular ICL Models" got accepted at the <a href="https://automl.cc">International Conference on Automated Machine Learning</a>. Looking forward to see you in Ljubljana! 
+  <li> June'26 · 📝 Our paper "TACTICL: Task-Aware Compression of Tabular ICL Models" got accepted at the <a href="https://automl.cc">International Conference on Automated Machine Learning</a>. Looking forward to see you in Ljubljana!
+  <li> May'26 · ❤️ Our [ELLIS unit NRW](https://ellis-unit-nrw.github.io/) has been accepted. It's a joint effort across many institutes, and I am extremely excited to be the co-director representing TU Dortmund / Lamarr.  </li>
   <li> May'26 · 👋 Welcome our new group member: Hendrik Weißenfels! </li>
   <li> Apr'26 · 📣 Application is open for the 6th edition of our <a href="https://automlschool.org">"AutoML School"</a>. This edition will take place at TU Dortmund, July 27th-31st, with Matthias Feurer being the main local organizer. Deadline: April 15th 2026</li>
-  <li> Feb'26 · 📓 I will offer a seminar on <a href="https://keggensperger.github.io/teaching/2026-summer-seminar">Adapting and Fine-Tuning Foundation Models</a>.</li>
+  <li> Feb'26 · 📓 I will offer a seminar on <a href="https://keggensperger.github.io/teaching/2026-summer-seminar">Adapting and Fine-Tuning Foundation Models</a> and a BSc FachprojeKt on "Empirical Machine Learning"</li>
   <li> Dec'25 · 👋 Meet us at NeurIPS, EurIPS and the ELLIS Unconference: <a href="https://arxiv.org/abs/2505.05226?">Put CASH on Bandits: A Max K-Armed Problem for Automated Machine Learning</a> at NeurIPs, "AutoML for Simulation-based Inference" at <a href="https://sites.google.com/view/amortizedprobml/">Amortized ProbML</a>, "TabPFN-Wide: Continued Pre-Training for Extreme Feature Counts" at <a href="https://sites.google.com/view/eurips25-ai-td/home">AI for Tabular Data</a> and "Towards Understanding Layer Contributions in Tabular In-Context Learning Models" at <a href="https://sites.google.com/view/eurips25-ai-td/home">AI for Tabular Data</a>.</li>
 </ul>
 
