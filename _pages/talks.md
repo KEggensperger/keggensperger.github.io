@@ -7,6 +7,7 @@ author_profile: true
 ---
 ### 2026
 
+  * 2026 · *Invited Talk*, [PhoenixD Kolloquium](https://www.phoenixd.uni-hannover.de/phoenixd-kolloquium) at Leibniz University Hannover, Germany: "From AutoML to Foundation Models (and back?)"
   * 2026 · *Invited Talk*, [Foundation Models for Structured Data Workshop](https://icml-structured-fm-workshop.github.io/) at ICML, Seoul, South Korea: "Understanding and Adapting Tabular Foundation Models"
   * 2026 · *Invited Talk*, Closing Conference of [SAIL](https://www.sail.nrw/closingconference//), Bielefeld, Germany: "AutoML for Tabular Data"
   * 2026 · *Invited Talk*, Meta Adaptive Experimentation Workshop, New York, USA: "Extending and using PFNs for Tabular ML"
